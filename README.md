@@ -18,4 +18,5 @@
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
 
 ### TRADING
- - VTSAX  - Mutual Index Fund (Aka Total Stock Market) which is also an index.
+ - VTSAX  - Mutual Index Fund<br/>
+VTSAX is a Mutual Index Fund, Mutual meaning a combination of other indexes (e.g. Dow Jones) i.e. the entire stock market.
