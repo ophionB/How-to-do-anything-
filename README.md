@@ -6,7 +6,7 @@
 * [C](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#c)
 * [Kotlin](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
 
-* [Trading]()https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#trading)
+* [Trading](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#trading)
 
 ### Computer Science
  - Computer Science from the bottom up - https://www.bottomupcs.com/
