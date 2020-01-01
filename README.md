@@ -41,3 +41,12 @@ sometimes the way one person says something resonates more than another.
  - Hackaday - https://hackaday.com/
  - Slashdot - https://slashdot.org/
  - Lobsters - https://lobste.rs/
+ 
+ ### Human behavior & Psychology
+ - Tiny Habits - Tinyhabits.com
+   - > The Tiny Habits habit formation 
+regime created by Stanford researcher BJ Fogg. A lot of the addictive 
+design patterns you see in apps like Snapchat, Instagram, etc. are built
+ off his research. Quite nefarious use of psychology for 
+advertising/“engagement”, but the plus side is you can use the same 
+strategies to build habits you want to build.
