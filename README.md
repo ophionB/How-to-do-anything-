@@ -7,6 +7,7 @@
 * [Kotlin](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
 
 * [Trading](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#trading)
+* [News & Communities](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#news--communities)
 
 ### Computer Science
  - Computer Science from the bottom up - https://www.bottomupcs.com/
