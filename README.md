@@ -20,3 +20,11 @@
 ### TRADING
  - VTSAX  - Mutual Index Fund - https://www.youtube.com/watch?v=ftMOJm8HXqk<br/>
 > VTSAX is a Mutual Index Fund, Mutual meaning a combination of other indexes (e.g. Dow Jones) i.e. you're investing in the entire stock market, which grows as the economy inflates.
+
+
+### NEWS
+ - Hacker News - news.ycombinator.com
+ - The Economist - economist.com<br/>
+ > 1. It's weekly. "World this week" section is more than enough to have a summary of what has happened throughout the globe and I can get this information in less than 5 minutes. If you are interested in being more up-to-date, you can also try Economist Espresso, which is daily.<br/>
+2. It's not only about world news, but also has different sections such as Technology, International, Book & Arts which gives me a wider range of topics to digest on a weekly basis.
+ > All the news sources here are legitimate and very informative resources of information.
