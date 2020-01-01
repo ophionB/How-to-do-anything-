@@ -11,6 +11,7 @@
 
 ### Computer Science
  - Computer Science from the bottom up - https://www.bottomupcs.com/
+   - > Bottomupcs is very brief informative book on the ins and outs of the comptuter which is only 188 pages.
 
 ### C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
