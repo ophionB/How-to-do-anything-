@@ -22,7 +22,7 @@
    - > VTSAX is a Mutual Index Fund, Mutual meaning a combination of other indexes (e.g. Dow Jones) i.e. you're investing in the entire stock market, which grows as the economy inflates.
 
 
-### NEWS && Communities
+### NEWS & Communities
  > All the news sources here are legitimate and very informative resources of information.
  - Hacker News - news.ycombinator.com
  - The Economist - economist.com<br/>
