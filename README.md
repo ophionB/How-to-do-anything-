@@ -8,7 +8,7 @@
 
 * [Trading](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#trading)
 * [News & Communities](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#news--communities)
-
+* [Human behavior & Psychology](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#human-behavior--psychology)
 ### Computer Science
  - Computer Science from the bottom up - https://www.bottomupcs.com/
    - > Author: Yes as pointed out many times not 
