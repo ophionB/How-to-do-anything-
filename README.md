@@ -20,11 +20,6 @@ is a megabyte, etc.  Let alone how a program was linked and loaded.  I
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
 
-I deliberately wanted to avoid x86-only to illustrate for similar 
-reasons.  Unfortunately Itanium proved to be a poor choice, ARM would 
-have been better, but it gives me something to update if I get time!  
-However, much of the basic content still remains relevant many years on.
-
 ### C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
  
