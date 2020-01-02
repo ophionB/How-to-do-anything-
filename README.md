@@ -20,20 +20,21 @@ is a megabyte, etc.  Let alone how a program was linked and loaded.  I
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
 
-### C
+## C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
  
-### KOTLIN
+## KOTLIN
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
 
-### FINANCE
-
-## TRADING
+## FINANCE
+### MANAGEMENT
+ - Personal Finance - https://www.reddit.com/r/personalfinance/wiki/commontopics#wiki_graphical_version
+### TRADING
  - VTSAX  - Mutual Index Fund - https://www.youtube.com/watch?v=ftMOJm8HXqk<br/>
    - > VTSAX is a Mutual Index Fund, Mutual meaning a combination of other indexes (e.g. Dow Jones) i.e. you're investing in the entire stock market, which grows as the economy inflates.
 
 
-### NEWS & COMMUNITIES
+## NEWS & COMMUNITIES
  > All the news sources here are legitimate and very informative resources of information.
  - Hacker News - news.ycombinator.com
  - The Economist - economist.com<br/>
@@ -44,7 +45,7 @@ sometimes the way one person says something resonates more than another.
  - Slashdot - https://slashdot.org/
  - Lobsters - https://lobste.rs/
  
- ### Human behavior & Psychology
+ ## Human behavior & Psychology
  - Tiny Habits - Tinyhabits.com
    - > The Tiny Habits habit formation 
 regime created by Stanford researcher BJ Fogg. A lot of the addictive 
@@ -53,20 +54,20 @@ design patterns you see in apps like Snapchat, Instagram, etc. are built
 advertising/“engagement”, but the plus side is you can use the same 
 strategies to build habits you want to build.
 
-### Privacy & Security
+## Privacy & Security
 - Communities
   - privacytools.io - Privacy information
   - thatoneprivacysite.com - Indepedent comparison site.
   - inteltechniques.com - OSINT && Privacy by Michael Bazzell
   
 
-### Home Automation
+## Home Automation
 - Home Assistant - https://www.home-assistant.io/
   - > Open source home automation that puts local control and privacy first. 
 Powered by a worldwide community of tinkerers and DIY enthusiasts. 
 Perfect to run on a Raspberry Pi or a local server.
 
 
-### DIY
+## DIY
 
 
