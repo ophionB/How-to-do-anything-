@@ -5,13 +5,13 @@
 * [C](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#c)
 * [Kotlin](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
 * [Finance](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#finance)
-   - [Personal Finance]()
-   - [Trading]()
+   - [Management](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#management)
+   - [Trading](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#trading)
 * [News & Communities](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#news--communities)
 * [Human behavior & Psychology](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#human-behavior--psychology)
-* [Privacy & Security](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
-* [Home Automation](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
-* [DIY](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
+* [Privacy & Security](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#privacy--security)
+* [Home Automation](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#home-automation)
+* [DIY](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#diy)
 
 
 
