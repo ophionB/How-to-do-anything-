@@ -2,13 +2,18 @@
 
 ## Table of contents
 * [Computer Science](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#computer-science)
-
 * [C](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#c)
 * [Kotlin](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
-
-* [Trading](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#trading)
+* [Finance](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#finance)
+   - [Personal Finance]()
+   - [Trading]()
 * [News & Communities](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#news--communities)
 * [Human behavior & Psychology](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#human-behavior--psychology)
+* [Privacy & Security](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
+* [Home Automation](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
+* [DIY](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
+
+
 
 
 ## Computer Science
