@@ -76,7 +76,14 @@ strategies to build habits you want to build.
   
 - Hacking Strategies
   - Man-in-the-middle attack - https://en.wikipedia.org/wiki/Man-in-the-middle_attack
-  
+
+- Cryptography    
+  - Post-quantum cryptography - https://en.wikipedia.org/wiki/Post-quantum_cryptography
+    - > Post-quantum cryptography (sometimes referred to as quantum-proof, quantum-safe or quantum-resistant) refers to cryptographic algorithms (usually public-key algorithms) that are thought to be secure against an attack by a quantum computer. As of 2019,
+ this is not true for the most popular public-key algorithms, which can 
+be efficiently broken by a sufficiently strong quantum computer. The 
+problem with currently popular algorithms is that their security relies 
+on one of three hard mathematical problems:  the integer factorization problem, the discrete logarithm problem or the elliptic-curve discrete logarithm problem. All of these problems can be easily solved on a sufficiently powerful quantum computer running Shor's algorithm.[1][2] 
   
 
 ## Home Automation
