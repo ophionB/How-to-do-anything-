@@ -1,4 +1,4 @@
-# How-to-do-anything?
+# How-to-do-anything? :rocket::mortar_board:
 
 ## Table of contents
 * [Computer Science](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#computer-science)
