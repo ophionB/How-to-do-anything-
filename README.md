@@ -50,7 +50,7 @@ sometimes the way one person says something resonates more than another.
  - The Economist - economist.com<br/>
    - > 1. It's weekly. "World this week" section is more than enough to have a summary of what has happened throughout the globe and I can get this information in less than 5 minutes. If you are interested in being more up-to-date, you can also try Economist Espresso, which is daily.<br/>
    - > 2. It's not only about world news, but also has different sections such as Technology, International, Book & Arts which gives me a wider range of topics to digest on a weekly basis.
- - The Well - https://www.well.com/ [PAID]
+ - The Well - https://www.well.com/ - :dollar:
  - Hackaday - https://hackaday.com/
  - Slashdot - https://slashdot.org/
  - Lobsters - https://lobste.rs/
