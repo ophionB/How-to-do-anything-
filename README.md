@@ -9,7 +9,9 @@
 * [Trading](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#trading)
 * [News & Communities](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#news--communities)
 * [Human behavior & Psychology](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#human-behavior--psychology)
-### Computer Science
+
+
+## Computer Science
  - Computer Science from the bottom up - https://www.bottomupcs.com/
    - > Author: Yes as pointed out many times not 
 "computer science" and I somewhat regret the name.  However, it came out
@@ -20,11 +22,14 @@ is a megabyte, etc.  Let alone how a program was linked and loaded.  I
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
 
+
 ## C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
  
+ 
 ## KOTLIN
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
+
 
 ## FINANCE
 ### MANAGEMENT
@@ -45,6 +50,7 @@ sometimes the way one person says something resonates more than another.
  - Slashdot - https://slashdot.org/
  - Lobsters - https://lobste.rs/
  
+ 
  ## Human behavior & Psychology
  - Tiny Habits - Tinyhabits.com
    - > The Tiny Habits habit formation 
@@ -53,6 +59,7 @@ design patterns you see in apps like Snapchat, Instagram, etc. are built
  off his research. Quite nefarious use of psychology for 
 advertising/“engagement”, but the plus side is you can use the same 
 strategies to build habits you want to build.
+
 
 ## Privacy & Security
 - Communities
