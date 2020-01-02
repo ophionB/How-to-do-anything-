@@ -74,6 +74,10 @@ strategies to build habits you want to build.
   - thatoneprivacysite.com - Indepedent comparison site.
   - inteltechniques.com - OSINT && Privacy by Michael Bazzell
   
+- Hacking Strategies
+  - Man-in-the-middle attack - https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+  
+  
 
 ## Home Automation
 - Home Assistant - https://www.home-assistant.io/
