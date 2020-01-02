@@ -68,6 +68,7 @@ strategies to build habits you want to build.
 
 ## Privacy & Security
 > re-route and tunnel all connections on all devices to your home network(WireGuard) containing a net wide adblocker(Pi-Hole) and vpn over router, forward to dns resolver, Use FireFox.
+> Use a Layer 7 FireWall on each device, Little Snitch (OSX
 - Communities
   - privacytools.io - Privacy information
   - thatoneprivacysite.com - Indepedent comparison site.
