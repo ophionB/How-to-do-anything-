@@ -50,3 +50,21 @@ design patterns you see in apps like Snapchat, Instagram, etc. are built
  off his research. Quite nefarious use of psychology for 
 advertising/“engagement”, but the plus side is you can use the same 
 strategies to build habits you want to build.
+
+### Privacy & Security
+- Communities
+  - privacytools.io - Privacy information
+  - thatoneprivacysite.com - Indepedent comparison site.
+  - inteltechniques.com - OSINT && Privacy by Michael Bazzell
+  
+
+### Home Automation
+- Home Assistant - https://www.home-assistant.io/
+  - > Open source home automation that puts local control and privacy first. 
+Powered by a worldwide community of tinkerers and DIY enthusiasts. 
+Perfect to run on a Raspberry Pi or a local server.
+
+
+### DIY
+
+
