@@ -67,7 +67,7 @@ strategies to build habits you want to build.
 
 
 ## Privacy & Security
-> Re-route and tunnel all connections on all devices to your home network through 'WireGuard' containing a net wide adblocker ' Pi-Hole' and 'VPN' over router, forward to dns resolver, use a 7-Layer Firewall named 'Little Snitch' to control incoming & outgoing packets. Use FireFox to browse the internet.
+> Re-route and tunnel all connections on all devices to your home network through 'WireGuard' containing a net wide adblocker ' Pi-Hole' and 'VPN' over router, forward to dns resolver, use a 7-Layer Firewall named 'Little Snitch' to control incoming & outgoing packets. Spoof your 'MAC' adress, Use 'FireFox' to browse the internet.
 - Communities
   - privacytools.io - Privacy information
   - thatoneprivacysite.com - Indepedent comparison site.
