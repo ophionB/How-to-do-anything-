@@ -31,7 +31,9 @@ sometimes the way one person says something resonates more than another.
 ## C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
  
- 
+## JAVA
+- Summary of Creating & Using Classes & Objects - https://docs.oracle.com/javase/tutorial/java/javaOO/summaryclasses.html
+
 ## KOTLIN
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
 
