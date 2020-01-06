@@ -30,6 +30,7 @@ sometimes the way one person says something resonates more than another.
 ### Design Patterns
 > - Keep It Simple Stupid Principle - https://en.wikipedia.org/wiki/KISS_principle
 > - You aren't gonna need it Principle - https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+> - Emergent Design - https://en.wikipedia.org/wiki/Emergent_Design
  - Java design patterns - https://github.com/iluwatar/java-design-patterns
 ## C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
