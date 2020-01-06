@@ -3,6 +3,7 @@
 ## Table of contents
 * [Computer Science](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#computer-science)
 * [C](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#c)
+* [Java](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#java)
 * [Kotlin](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
 * [Finance](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#finance)
    - [Management](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#management)
@@ -33,6 +34,8 @@ sometimes the way one person says something resonates more than another.
  
 ## JAVA
 - Summary of Creating & Using Classes & Objects - https://docs.oracle.com/javase/tutorial/java/javaOO/summaryclasses.html
+- The Really Big Index(everything you need) - https://docs.oracle.com/javase/tutorial/reallybigindex.html
+- The Java Whitepaper 1996 (Pretty much a summary of the transition from C to Java) - http://journals.ecs.soton.ac.uk/java/whitepaper/java-whitepaper-1.html
 
 ## KOTLIN
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
