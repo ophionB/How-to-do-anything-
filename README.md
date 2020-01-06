@@ -27,8 +27,10 @@ systems courses without realising things like 2^10 is a kilobyte, 2^20
 is a megabyte, etc.  Let alone how a program was linked and loaded.  I 
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
-
-
+### Design Patterns
+> - Keep It Simple Stupid Principle - https://en.wikipedia.org/wiki/KISS_principle
+> - You aren't gonna need it Principle - https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+ - Java design patterns - https://github.com/iluwatar/java-design-patterns
 ## C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
  
