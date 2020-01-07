@@ -64,6 +64,9 @@ sometimes the way one person says something resonates more than another.
 
 ## KOTLIN
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
+ 
+## JAVASCRIPT
+- Parcel - Fast, zero-configuration web application bundler - https://parceljs.org/
 
 
 ## FINANCE
