@@ -3,6 +3,7 @@
 ## Table of contents
 * [Notable](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#notable)
 * [Computer Science](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#computer-science)
+   - [Algorithms](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#algorithms)
    - [Design Patterns](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#design-patterns)
 * [C](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#c)
 * [Java](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#java)
@@ -33,6 +34,8 @@ systems courses without realising things like 2^10 is a kilobyte, 2^20
 is a megabyte, etc.  Let alone how a program was linked and loaded.  I 
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
+### Algorithms
+- Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 ### Design Patterns
 *Basic principles*
 - ```
