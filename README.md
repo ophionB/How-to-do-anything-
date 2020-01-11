@@ -46,6 +46,7 @@ that the stack implements. The operating system forwards the payload of
 incoming IP packets to the corresponding application by extracting the 
 socket address information from the IP and transport protocol headers 
 and stripping the headers from the application data.
+- Berkeleys Standard (Most API's are based on Berkley's Standard) -  https://en.wikipedia.org/wiki/Berkeley_sockets
 
 ### Design Patterns
 *Basic principles*
