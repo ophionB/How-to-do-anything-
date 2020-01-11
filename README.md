@@ -84,6 +84,9 @@ and stripping the headers from the application data.
 ## KOTLIN
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
  
+## CSS
+- All Selectors - https://www.w3schools.com/cssref/css_selectors.asp
+ 
 ## JAVASCRIPT
 - Parcel - Fast, zero-configuration web application bundler - https://parceljs.org/
 
