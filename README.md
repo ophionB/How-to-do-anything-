@@ -36,6 +36,8 @@ hope for this to be helpful, there are plenty of similar resources but
 sometimes the way one person says something resonates more than another.
 ### Algorithms
 - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
+### Networking
+- Network Socket - [READ ENTIRE PAGE]https://en.wikipedia.org/wiki/Network_socket
 ### Design Patterns
 *Basic principles*
 - ```
@@ -108,7 +110,8 @@ strategies to build habits you want to build.
   - privacytools.io - Privacy information
   - thatoneprivacysite.com - Indepedent comparison site.
   - inteltechniques.com - OSINT && Privacy by Michael Bazzell
-  
+- Info
+  - > 'log' command shows you a variety of logs the OS does by default, you can collect all the OS Logs by typing 'log collect'.
 - Hacking Strategies
   - Man-in-the-middle attack - https://en.wikipedia.org/wiki/Man-in-the-middle_attack
 
