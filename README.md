@@ -89,6 +89,7 @@ and stripping the headers from the application data.
  
 ## JAVASCRIPT
 - Parcel - Fast, zero-configuration web application bundler - https://parceljs.org/
+- Libraries & Frameworks - https://www.javascripting.com
 
 
 ## FINANCE
