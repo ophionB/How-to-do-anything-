@@ -9,7 +9,7 @@
 * [Java](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#java)
 * [Kotlin](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#kotlin)
 * [Finance](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#finance)
-   - [Management](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#management)
+   - [Management](https://github.com/ophionB/How-to-do-anything-/blob/master/README.mdxf#management)
    - [Trading](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#trading)
 * [News & Communities](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#news--communities)
 * [Human behavior & Psychology](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#human-behavior--psychology)
@@ -134,6 +134,7 @@ strategies to build habits you want to build.
   - Man-in-the-middle attack - https://en.wikipedia.org/wiki/Man-in-the-middle_attack
 
 - Cryptography    
+  - Graduate Course in Applied Cryptography - https://toc.cryptobook.us/
   - Post-quantum cryptography - https://en.wikipedia.org/wiki/Post-quantum_cryptography
     - > Post-quantum cryptography (sometimes referred to as quantum-proof, quantum-safe or quantum-resistant) refers to cryptographic algorithms (usually public-key algorithms) that are thought to be secure against an attack by a quantum computer. As of 2019,
  this is not true for the most popular public-key algorithms, which can 
