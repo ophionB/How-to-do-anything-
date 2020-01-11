@@ -37,7 +37,7 @@ sometimes the way one person says something resonates more than another.
 ### Algorithms
 - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 ### Networking
-- Network Socket - [READ ENTIRE PAGE]https://en.wikipedia.org/wiki/Network_socket
+- Network Socket - [READ ENTIRE PAGE](https://en.wikipedia.org/wiki/Network_socket)
 ### Design Patterns
 *Basic principles*
 - ```
