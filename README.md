@@ -38,6 +38,15 @@ sometimes the way one person says something resonates more than another.
 - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 ### Networking
 - Network Socket - [READ ENTIRE PAGE](https://en.wikipedia.org/wiki/Network_socket)
+- Protocol Stack - https://en.wikipedia.org/wiki/Protocol_stack
+  - > A protocol stack, today usually provided by the operating system
+ (rather than as a separate library, for instance), is a set of services
+ that allow processes to communicate over a network using the protocols 
+that the stack implements. The operating system forwards the payload of 
+incoming IP packets to the corresponding application by extracting the 
+socket address information from the IP and transport protocol headers 
+and stripping the headers from the application data.
+
 ### Design Patterns
 *Basic principles*
 - ```
