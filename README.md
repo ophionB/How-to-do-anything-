@@ -20,6 +20,7 @@
 
 >  ## *Notable*
    ```
+   LearnXinYminutes - learnxinyminutes.com/
    Build your own X - https://github.com/danistefanovic/build-your-own-x
    ```
 
