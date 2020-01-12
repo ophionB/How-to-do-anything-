@@ -91,6 +91,14 @@ and stripping the headers from the application data.
 
 ## SQL
 - https://en.wikipedia.org/wiki/Database_index
+  - > The primary purpose of an index is to provide an ordered representation 
+of the indexed data. It is, however, not possible to store the data 
+sequentially because an insert statement 
+would need to move the following entries to make room for the new one. 
+Moving large amounts of data is very time-consuming so the insert
+ statement would be very slow. The solution to the problem is to 
+establish a logical order that is independent of physical order in 
+memory.
 
 
 ## CSS
