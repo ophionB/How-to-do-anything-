@@ -71,9 +71,12 @@ and stripping the headers from the application data.
    Filter - Criteria
    ```
 - Java design patterns - https://github.com/iluwatar/java-design-patterns
+
+
 ## C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
- 
+
+
 ## JAVA
 - Summary of Creating & Using Classes & Objects - https://docs.oracle.com/javase/tutorial/java/javaOO/summaryclasses.html
 - The Really Big Index - https://docs.oracle.com/javase/tutorial/reallybigindex.html
@@ -81,12 +84,19 @@ and stripping the headers from the application data.
 - Learn about annotations - https://en.wikipedia.org/wiki/Java_annotation
 - Java is awesome - https://github.com/akullpp/awesome-java
 
+
 ## KOTLIN
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
- 
+
+
+## SQL
+- https://en.wikipedia.org/wiki/Database_index
+
+
 ## CSS
 - All Selectors - https://www.w3schools.com/cssref/css_selectors.asp
- 
+
+
 ## JAVASCRIPT
 - Parcel - Fast, zero-configuration web application bundler - https://parceljs.org/
 - Libraries & Frameworks - https://www.javascripting.com
