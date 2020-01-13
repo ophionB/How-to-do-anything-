@@ -75,6 +75,8 @@ and stripping the headers from the application data.
 
 ## C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
+ - Object-Oriented Programming in ANSI C - https://www.cs.rit.edu/~ats/books/ooc.pdf
+   - > Must Read!
 
 
 ## JAVA
