@@ -35,6 +35,7 @@ systems courses without realising things like 2^10 is a kilobyte, 2^20
 is a megabyte, etc.  Let alone how a program was linked and loaded.  I 
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
+- How computer memory works - https://www.explainthatstuff.com/how-computer-memory-works.html
 ### Algorithms
 - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 ### Networking
