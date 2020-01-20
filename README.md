@@ -174,4 +174,6 @@ Perfect to run on a Raspberry Pi or a local server.
 
 ## DIY
 
+## Nutrition
+- everything you need to know - https://en.m.wikipedia.org/wiki/Veganism
 
