@@ -107,6 +107,7 @@ memory.
 ## CSS
 - All Selectors - https://www.w3schools.com/cssref/css_selectors.asp
 - Learn to layout - https://learnlayout.com/
+- everything you need to know - https://learn.shayhowe.com/html-css/
 
 
 ## JAVASCRIPT
