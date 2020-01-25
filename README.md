@@ -108,7 +108,7 @@ memory.
 - All Selectors - https://www.w3schools.com/cssref/css_selectors.asp
 - Learn to layout - https://learnlayout.com/
 - everything you need to know - https://learn.shayhowe.com/html-css/
-
+- HTML - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
 ## JAVASCRIPT
 - Parcel - Fast, zero-configuration web application bundler - https://parceljs.org/
