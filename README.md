@@ -146,6 +146,13 @@ design patterns you see in apps like Snapchat, Instagram, etc. are built
  off his research. Quite nefarious use of psychology for 
 advertising/“engagement”, but the plus side is you can use the same 
 strategies to build habits you want to build.
+- Epistemology - https://en.wikipedia.org/wiki/Epistemology
+  - > Epistemology is the study of the nature of knowledge, justification, and
+ the rationality of belief. Much debate in epistemology centers on four 
+areas: (1) the philosophical analysis of the nature of knowledge and how it relates to such concepts as truth, belief, and justification,[1][2] (2) various problems of skepticism,
+ (3) the sources and scope of knowledge and justified belief, and (4) 
+the criteria for knowledge and justification. Epistemology addresses 
+such questions as: "What makes justified beliefs justified?",[3] "What does it mean to say that we know something?",[4] and fundamentally "How do we know that we know?"[5]
 
 
 ## Privacy & Security
