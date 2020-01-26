@@ -103,6 +103,9 @@ Moving large amounts of data is very time-consuming so the insert
 establish a logical order that is independent of physical order in 
 memory.
 
+## Web Development
+ > Use alot of random yet relative text, alot of variations, and depending on the project alot of Emoji's
+- All Emojis -  https://www.w3schools.com/charsets/ref_emoji.asp
 
 ## CSS
 - All Selectors - https://www.w3schools.com/cssref/css_selectors.asp
