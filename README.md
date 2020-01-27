@@ -49,6 +49,8 @@ that the stack implements. The operating system forwards the payload of
 incoming IP packets to the corresponding application by extracting the 
 socket address information from the IP and transport protocol headers 
 and stripping the headers from the application data.
+- Protocol Data Unit - https://en.wikipedia.org/wiki/Protocol_data_unit
+- OSI model - https://en.wikipedia.org/wiki/OSI_model
 - Berkeleys Standard (Most API's are based on Berkley's Standard) -  https://en.wikipedia.org/wiki/Berkeley_sockets
   - > **This page goes super in-depth and expands on how to setup your first TCP Client > Server connection.**
 - Packet sizes
