@@ -50,6 +50,39 @@ socket address information from the IP and transport protocol headers
 and stripping the headers from the application data.
 - Berkeleys Standard (Most API's are based on Berkley's Standard) -  https://en.wikipedia.org/wiki/Berkeley_sockets
   - > **This page goes super in-depth and expands on how to setup your first TCP Client > Server connection.**
+- Packet sizes
+   - > 
+
+Yes, Packet size affect performance of network a lot.
+
+First
+ and foremost, every medium of transmission specifies MTU ie maximum 
+transmission unit. If packet is more than MTU, it will be dropped.
+Now question is how?
+
+There
+ is something called bandwith i.e maximum number of bits per second in 
+order to guarantee reasonable level of reliability. Packet is single 
+unit and considered to be transferred over small time. 
+A larger 
+packet will take long time to transfer resulting into more collisions at
+ Layer 1. The medium of transmission i.e copper wire or twisted pair 
+transfer electrons based on their mobility. This restriction affects the
+ rate of data transfer over them. A large packet would mean others wont 
+get chance to use transmission line
+Apart from this restriction, 
+buffers on NIC and OS have memory size restriction. A large packet size 
+would mean large memory allocation at intermediate boxes as well as end 
+hosts. If your packet size is large in high probability it will get 
+dropped at queue whose element size is small or in worst case get 
+fragmented (which is more computationally intensive then re transmitting
+ in form of small packets).
+
+A small packet size means large header content thus useful information would form less percentage of actual data transfer.
+1000 byte data - as 1 packet - 1000+40(header) = 1040
+1000 byte data as 20 packets - 1000+ 40*20 =     1800 byte.
+Thus smaller packet size makes network inefficient by pumping more useless bits  an congesting it.
+Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advanced interfaces, it could go till 9000 bytes too
       
 ### Design Patterns
 *Basic principles*
