@@ -42,6 +42,10 @@ sometimes the way one person says something resonates more than another.
 > Internet communication protocols are published by the Internet Engineering Task Force (IETF). The IEEE handles wired and wireless networking, and the International Organization for Standardization (ISO) handles other types. The ITU-T handles telecommunication protocols and formats for the public switched telephone network (PSTN). As the PSTN and Internet converge, the standards are also being driven towards convergence
 - Packets - https://en.wikipedia.org/wiki/Network_packet
 - Packet Switching - https://en.wikipedia.org/wiki/Packet_switching
+  - Packet switching is a method of grouping data that is transmitted over a digital network into packets. Packets are made of a header and a payload.
+ Data in the header are used by networking hardware to direct the packet
+ to its destination where the payload is extracted and used by application software. Packet switching is the primary basis for data communications in computer networks worldwide.
+
 - Network Socket - [READ ENTIRE PAGE](https://en.wikipedia.org/wiki/Network_socket)
 - Protocol Stack - https://en.wikipedia.org/wiki/Protocol_stack
   - > A protocol stack, today usually provided by the operating system
