@@ -40,6 +40,8 @@ sometimes the way one person says something resonates more than another.
 - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 ### Networking
 > Internet communication protocols are published by the Internet Engineering Task Force (IETF). The IEEE handles wired and wireless networking, and the International Organization for Standardization (ISO) handles other types. The ITU-T handles telecommunication protocols and formats for the public switched telephone network (PSTN). As the PSTN and Internet converge, the standards are also being driven towards convergence
+- Packets - https://en.wikipedia.org/wiki/Network_packet
+- Packet Switching - https://en.wikipedia.org/wiki/Packet_switching
 - Network Socket - [READ ENTIRE PAGE](https://en.wikipedia.org/wiki/Network_socket)
 - Protocol Stack - https://en.wikipedia.org/wiki/Protocol_stack
   - > A protocol stack, today usually provided by the operating system
