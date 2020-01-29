@@ -229,8 +229,8 @@ Perfect to run on a Raspberry Pi or a local server.
 
 ## Nutrition
 #### Best buys:
-- (De Notenshop)[denotenshop.nl] - Big bulk seeds/nuts & alot of other highly nutritional foods, affordable and home delivered.
-- (Pit&Pit)[pit-pit.com] - All Spices, seeds, nuts & supplements, Affordable and home delivered.
+- [De Notenshop](denotenshop.nl) - Big bulk seeds/nuts & alot of other highly nutritional foods, affordable and home delivered.
+- [Pit&Pit](pit-pit.com) - All Spices, seeds, nuts & supplements, Affordable and home delivered.
 
 - everything you need to know - https://en.m.wikipedia.org/wiki/Veganism
 
