@@ -148,14 +148,12 @@ memory.
 ## Web Development
  > Use alot of random yet relative text, alot of variations, and depending on the project alot of Emoji's
 - All Emojis -  https://www.w3schools.com/charsets/ref_emoji.asp
-
-## CSS
+#### CSS
 - All Selectors - https://www.w3schools.com/cssref/css_selectors.asp
 - Learn to layout - https://learnlayout.com/
 - everything you need to know - https://learn.shayhowe.com/html-css/
 - HTML - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-
-## JAVASCRIPT
+#### JAVASCRIPT
 - Parcel - Fast, zero-configuration web application bundler - https://parceljs.org/
 - Libraries & Frameworks - https://www.javascripting.com
 
