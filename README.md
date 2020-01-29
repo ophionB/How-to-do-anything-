@@ -36,9 +36,9 @@ is a megabyte, etc.  Let alone how a program was linked and loaded.  I
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
 - How computer memory works - https://www.explainthatstuff.com/how-computer-memory-works.html
-### Algorithms
+#### Algorithms
 - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
-### Networking
+#### Networking
 > Internet communication protocols are published by the Internet Engineering Task Force (IETF). The IEEE handles wired and wireless networking, and the International Organization for Standardization (ISO) handles other types. The ITU-T handles telecommunication protocols and formats for the public switched telephone network (PSTN). As the PSTN and Internet converge, the standards are also being driven towards convergence
 - Packets - https://en.wikipedia.org/wiki/Network_packet
 - Packet Switching - https://en.wikipedia.org/wiki/Packet_switching
@@ -93,7 +93,7 @@ A small packet size means large header content thus useful information would for
 Thus smaller packet size makes network inefficient by pumping more useless bits  an congesting it.
 Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advanced interfaces, it could go till 9000 bytes too
       
-### Design Patterns
+#### Design Patterns
 *Basic principles*
 - ```
   Keep It Simple Stupid Principle - https://en.wikipedia.org/wiki/KISS_principle
@@ -161,9 +161,9 @@ memory.
 
 
 ## FINANCE
-### MANAGEMENT
+#### MANAGEMENT
  - Personal Finance - https://www.reddit.com/r/personalfinance/wiki/commontopics#wiki_graphical_version
-### TRADING
+#### TRADING
  - VTSAX  - Mutual Index Fund - https://www.youtube.com/watch?v=ftMOJm8HXqk<br/>
    - > VTSAX is a Mutual Index Fund, Mutual meaning a combination of other indexes (e.g. Dow Jones) i.e. you're investing in the entire stock market, which grows as the economy inflates.
 
@@ -231,7 +231,7 @@ Perfect to run on a Raspberry Pi or a local server.
 #### Best buys:
 - [De Notenshop](denotenshop.nl) - Big bulk seeds/nuts & alot of other highly nutritional foods, affordable and home delivered.
 - [Pit&Pit](pit-pit.com) - All Spices, seeds, nuts & supplements, Affordable and home delivered.
-
+#### Nutritional Information:
 - everything you need to know - https://en.m.wikipedia.org/wiki/Veganism
 
 ## Physics
