@@ -1,5 +1,114 @@
 # How-to-do-anything? :rocket::mortar_board:
 
+## Work
+Work is anything that you are compelled to do. By its very nature, it is undesirable.The
+speaker draws a dichotomy between work and play, as he defines these 
+terms, with work being things done under compulsion and play being 
+things done based on desire (and especially passionate desire). His 
+theme is a clarion call to shape your life, and the way you make a 
+living, around things you love to do and to avoid dying a slow death by 
+simply doing a job that makes money - the point being that it makes no 
+sense to pursue modest comforts at the cost of spending your life doing 
+soul-deadening things you don't like doing just because they earn you a 
+livelihood. That is what "average" people do, and it is a pit that 
+college kids facing life all fresh and ready should by all means avoid.
+
+A few comments on this:
+
+1.
+ Hard work, even lousy forms of work, can be precisely the sort of thing
+ that allows you to develop into someone who has the talent and 
+character to be able to do the extraordinary things you might love. The 
+prototypical person who has all the time and ability to pursue nothing 
+but his passions, I would contend, is the spoiled heir, the person who 
+has never had to work a day in his life in the way the speaker here 
+defines work, i.e., as doing something that only a drudge or a drone 
+would bother with. It is no secret that many persons of privilege of 
+this type will wind up frittering away their lives with little focus or 
+purpose and will never develop the character traits that would enable 
+them to excel in life. They can pursue their "passions" all they like 
+but, in the end, they stand a considerable risk of being spendthrifts, 
+worthless heirs, or whatever other pejorative term captures what it 
+means to waste one's life away in the name of pursuing passions without 
+focus or purpose. Work - hard work, even menial work - is exactly what 
+helps shape most people to rise above the frittering stage and to make 
+something of themselves. For me, as a young kid and through my early 
+adult years, it meant preparing myself for life's challenges by doing a 
+whole host of things that I was "compelled to do" as the speaker uses 
+the term: (a) enduring the drudgery of many parts of the education 
+system itself, (b) selling papers, delivering donuts, working in a 
+cannery, washing dishes, busing tables, waiting tables, tending bar, 
+running delivery routes for a pharmaceutical wholesaler (yes, I know 
+where most every pharmacy is in the Bay Area), (c) learning Latin on my 
+own to help fill a deficit in my vocabulary and grammatical skills, (d) 
+doing scut work to help meet family obligations, (e) working as a slave 
+in a large law firm doing endless round-the-clock tasks of the dreary 
+kind that young attorneys employed by large law firms often do (and 
+quite a few other things to boot). Eventually, all these things led me 
+to a position where I developed the skill and talent to do what I loved,
+ and to do it well. But there was no short-cut to getting there. Work, 
+pain, and adversity are an integral part of life and it is no loss - 
+indeed, it is great gain - to spend some years doing things you don't 
+necessarily love if they help shape your character in a strong way and 
+if they help you develop skill sets that you can later apply in a more 
+optimal way. It is called "growing up."
+
+2. What most young people 
+lack is not passion or intelligence but wisdom. That is, they do not yet
+ know at their stage in life how best to apply the skills, 
+talents, and strengths that they know they possess. They have a sense of
+ what they want but insufficient life experiences to make right 
+judgments about how best to proceed. In this sense, the old, dreary job -
+ with all its limitations - is very often a good way to get out in the 
+world and discover important things about yourself as you gradually grow
+ and develop to face even more important challenges ahead (which, by the
+ way, can consist of doing exciting things in the form of a job - not 
+all jobs are dreary and many provide all the excitement and challenge 
+one would expect even in a startup). I would add that merely deciding to
+ "play" (as the speaker uses the term) can be decidedly dangerous in 
+this sense because it assumes, very often contrary to fact, that the 
+goals you want to play with are really worth pursuing - of course, they 
+may be and I am all for those who want to throw themselves headlong into
+ what they love doing, but many young people will simply not be equipped
+ to make the sort of good judgment at an early age that they could make 
+later after they have had a few working years under their belt. Wisdom 
+combines intelligence with good practical judgments; to make good 
+practical judgments, one needs to know life and not simply from the 
+vantage point of a 22-year-old who normally has not yet developed to a 
+fully mature stage.
+
+3. Many people throughout the world do not 
+have the privilege of completing a college education and it simply 
+cannot be a rule of life that "play" is the operative way of doing 
+things. Hardship and privation are everywhere in many large pockets of 
+the world and people live life doing many things they wouldn't do if 
+they had different circumstances. Often this takes the form of hard, 
+manual labor, agricultural or otherwise. Can it be said that such a 
+large segment of humanity is doing nothing ennobling but is merely 
+spending life dying a slow death while living worthless lives because 
+work is done of necessity? This to me comes off as exceedingly elitist. 
+There is much in life that is precious and people everywhere share these
+ things, whether they are forced to do things they don't want or not to 
+earn a livelihood. My parents were immigrants who grew up in conditions 
+of squalor. They couldn't wait to come to America to have the chance to 
+better themselves, and they did. But they did so through incredible hard
+ work of the type that the speaker here denigrates. To this, I say to 
+him, "get out of your bubble and get a broader perspective."
+
+4. 
+All that said, I liked the punchy, colorful style with which the speaker
+ presented his points and I can appreciate that the points made, and the
+ manner of presentation, can cause young graduates to examine their 
+premises and to think about what they really want to do with their 
+lives. No one with even a modicum of ambition really strives to be 
+average. On that broad theme, the speaker's points resonated with me. By
+ all means, strive to rise above the mediocre. I would just take issue 
+with the idea that hard work of even the "deadening" type is not an 
+important part of that process.
+              
+
+
+
 ## Table of contents
 * [Notable](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#notable)
 * [Computer Science](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#computer-science)
