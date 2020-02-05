@@ -146,7 +146,8 @@ hope for this to be helpful, there are plenty of similar resources but
 sometimes the way one person says something resonates more than another.
 - How computer memory works - https://www.explainthatstuff.com/how-computer-memory-works.html
 #### Algorithms
-- Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
+> - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
+- Pathfinding Demystified - https://gabrielgambetta.com/generic-search.html
 #### Networking
 > Internet communication protocols are published by the Internet Engineering Task Force (IETF). The IEEE handles wired and wireless networking, and the International Organization for Standardization (ISO) handles other types. The ITU-T handles telecommunication protocols and formats for the public switched telephone network (PSTN). As the PSTN and Internet converge, the standards are also being driven towards convergence
 - Packets - https://en.wikipedia.org/wiki/Network_packet
