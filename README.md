@@ -303,6 +303,7 @@ areas: (1) the philosophical analysis of the nature of knowledge and how it rela
  (3) the sources and scope of knowledge and justified belief, and (4) 
 the criteria for knowledge and justification. Epistemology addresses 
 such questions as: "What makes justified beliefs justified?",[3] "What does it mean to say that we know something?",[4] and fundamentally "How do we know that we know?"[5]
+- https://en.wikipedia.org/wiki/List_of_cognitive_biases - Cognitive biases are systematic patterns of deviation from norm or rationality in judgment
 
 
 ## Privacy & Security
