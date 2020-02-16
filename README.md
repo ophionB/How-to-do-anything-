@@ -1,5 +1,11 @@
 # How-to-do-anything? :rocket::mortar_board:
-
+## To Learn:
+- Mathematics - https://en.wikipedia.org/wiki/Mathematics
+  - space - https://en.wikipedia.org/wiki/Geometry
+  - structure - https://en.wikipedia.org/wiki/Algebra
+- Physics
+  - Quantum Mechanics
+  
 ## Work
 Work is anything that you are compelled to do. By its very nature, it is undesirable.The
 speaker draws a dichotomy between work and play, as he defines these 
