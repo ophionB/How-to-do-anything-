@@ -350,9 +350,7 @@ Perfect to run on a Raspberry Pi or a local server.
 
 ## Music
 - Waveforms - https://pudding.cool/2018/02/waveforms/
-  - > 
-
-An audio wave is the vibration of air
+  - > An audio wave is the vibration of air
  molecules, which is how sound travels. A waveform describes a wave by 
 graphing how an air molecule is displaced, over time.
 
