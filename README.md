@@ -348,6 +348,10 @@ on one of three hard mathematical problems:  the integer factorization problem, 
 Powered by a worldwide community of tinkerers and DIY enthusiasts. 
 Perfect to run on a Raspberry Pi or a local server.
 
+## Music
+- Waveforms - https://pudding.cool/2018/02/waveforms/
+  - > Explains visually and with sound how to read a waveform scheme and the involvement of air molecule displacement in sound. 
+
 
 ## DIY
 
