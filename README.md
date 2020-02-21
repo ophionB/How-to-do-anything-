@@ -351,29 +351,24 @@ Perfect to run on a Raspberry Pi or a local server.
 ## Music
 - Waveforms - https://pudding.cool/2018/02/waveforms/
   - > An audio wave is the vibration of air
- molecules, which is how sound travels. A waveform describes a wave by 
+molecules, which is how sound travels. A waveform describes a wave by 
 graphing how an air molecule is displaced, over time.
-
 Amplitude
- is the strength of a wave's effect; the higher the amplitude, the more 
+is the strength of a wave's effect; the higher the amplitude, the more 
 the air molecules are displaced. This also translates into loudness for 
 the human ear; increasing a wave's amplitude will increase how loud it 
 seems to us.
-
 The most common periodic waveforms are the sine, triangle, square, and sawtooth.
-
 These
- waveforms are said to be periodic because the wave they represent can 
+waveforms are said to be periodic because the wave they represent can 
 be repeated to produce a constant tone. The faster the wave repeats, the
- higher the pitch of the sound.
-
+higher the pitch of the sound.
 Different
- waveforms have different harmonics. A harmonic is an additional 
+waveforms have different harmonics. A harmonic is an additional 
 frequency created by the wave. The sine waveform is unique in that it 
 doesn't have any additional harmonics; it is the fundamental waveform.
-
 To
- understand why certain waveforms have harmonics, we can attack the 
+understand why certain waveforms have harmonics, we can attack the 
 problem from the opposite end. Because the sine waveform is the 
 fundamental waveform, it can be used to approximate all the other 
 periodic waveforms, by just adding additional sine waves at the 
