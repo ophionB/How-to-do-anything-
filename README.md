@@ -391,6 +391,6 @@ waves, all happening at very specific frequencies and amplitudes.
 - Walking with atoms – chemical bond making and breaking recorded in action - https://www.nottingham.ac.uk/news/walking-with-atoms
 - Coulombs Law - https://en.wikipedia.org/wiki/Coulomb%27s_law
   - > Coulomb's law, or Coulomb's inverse-square law, is an experimental law[1] of physics that quantifies the amount of force between two stationary, electrically charged particles.  The electric force between charged bodies at rest is conventionally called electrostatic force[2] or Coulomb force.[3]  The quantity of electrostatic force between stationary charges is always described by Coulomb's law.[4]  The law was first published in 1785 by French physicist Charles-Augustin de Coulomb, and was essential to the development of the theory of electromagnetism, maybe even its starting point,[5] because it was now possible to discuss quantity of electric charge in a meaningful way.[6]
-
+- Electric charge -  https://en.wikipedia.org/wiki/Electric_charge
 
 
