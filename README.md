@@ -380,6 +380,8 @@ waves, all happening at very specific frequencies and amplitudes.
 ## DIY
 
 ## Nutrition
+#### Supplements:
+Vitamine D - https://www.grc.com/health/vitamin-d.htm
 #### Best buys:
 - [De Notenshop](https://denotenshop.nl) - Big bulk seeds/nuts & alot of other highly nutritional foods, affordable and home delivered.
 - [Pit&Pit](https://pit-pit.com) - All Spices, seeds, nuts & supplements, Affordable and home delivered.
