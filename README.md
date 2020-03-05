@@ -160,6 +160,9 @@ is a megabyte, etc.  Let alone how a program was linked and loaded.  I
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
 - How computer memory works - https://www.explainthatstuff.com/how-computer-memory-works.html
+#### Architecture
+ISA Instruction Set Architecture - https://en.wikipedia.org/wiki/Instruction_set_architecture
+Microarchitecture - https://en.wikipedia.org/wiki/Microarchitecture
 #### Algorithms
 > - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 - Pathfinding Demystified - https://gabrielgambetta.com/generic-search.html
