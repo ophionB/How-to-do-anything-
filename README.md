@@ -343,6 +343,9 @@ such questions as: "What makes justified beliefs justified?",[3] "What does it m
 be efficiently broken by a sufficiently strong quantum computer. The 
 problem with currently popular algorithms is that their security relies 
 on one of three hard mathematical problems:  the integer factorization problem, the discrete logarithm problem or the elliptic-curve discrete logarithm problem. All of these problems can be easily solved on a sufficiently powerful quantum computer running Shor's algorithm.[1][2] 
+
+## Intelligence / Forensic / OSINT
+List of intelligence gathering disciplines - https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines
   
 
 ## Home Automation
