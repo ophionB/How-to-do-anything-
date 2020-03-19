@@ -395,6 +395,23 @@ Vitamine D - https://www.grc.com/health/vitamin-d.htm
 - everything you need to know - https://en.m.wikipedia.org/wiki/Veganism
 
 ## Physics
+##### Molecule:
+All matter such as solids, liquids, and gases, is composed of atoms.
+ Therefore, the atom is considered to be the basic building block of 
+matter. However, atoms are almost always grouped together with other 
+atoms to form what is called a molecule. Only a few gases such as helium
+ are composed of individual atoms as the structural unit. 
+##### Element:
+Any material that is composed of only one type of atom is called a chemical element, a basic element, or just an element. Any material that is composed of more than one type of atom is called a compound.
+ Every element has a unique atomic structure. Scientists know of only 
+about 109 basic elements at this time. (This number has a habit of 
+changing.) All matter is composed of combinations of one or more of 
+these elements. Ninety-one of these basic elements occur naturally on or
+ in the Earth. The other elements are man-made. You may recognize the 
+names of some of these basic elements, such as: hydrogen, helium, 
+oxygen, iron, copper, gold, aluminum, uranium. The periodic table of 
+elements (shown below) lists the basic elements and some of their 
+properties.
 ### Quantum Mechanics
 - Walking with atoms – chemical bond making and breaking recorded in action - https://www.nottingham.ac.uk/news/walking-with-atoms
 - Coulombs Law - https://en.wikipedia.org/wiki/Coulomb%27s_law
