@@ -415,7 +415,7 @@ elements (shown below) lists the basic elements and some of their
 properties.
 ### Electromagnetism
 - A complete explaination of electical current and how its produced - https://www.nde-ed.org/EducationResources/HighSchool/Electricity/electricalcurrent.htm
-  - > This is one of the most thorough explanations of electricty at the atomic level. Aswell as it's explanation on production, traversing & the measurement of electricy.
+  - > This is one of the most thorough explanations of electricty at the atomic level. Aswell as it's explanation on production, traversing & the measurement of electricity.
 - Coulombs Law - https://en.wikipedia.org/wiki/Coulomb%27s_law
   - > Coulomb's law, or Coulomb's inverse-square law, is an experimental law[1] of physics that quantifies the amount of force between two stationary, electrically charged particles.  The electric force between charged bodies at rest is conventionally called electrostatic force[2] or Coulomb force.[3]  The quantity of electrostatic force between stationary charges is always described by Coulomb's law.[4]  The law was first published in 1785 by French physicist Charles-Augustin de Coulomb, and was essential to the development of the theory of electromagnetism, maybe even its starting point,[5] because it was now possible to discuss quantity of electric charge in a meaningful way.[6]
 - An animated explanation on how Electricity is produced - https://www.saveonenergy.com/how-electricity-works/
