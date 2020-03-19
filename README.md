@@ -396,13 +396,14 @@ Vitamine D - https://www.grc.com/health/vitamin-d.htm
 
 ## Physics
 ##### Molecule:
-All matter such as solids, liquids, and gases, is composed of atoms.
+> All matter such as solids, liquids, and gases, is composed of atoms.
  Therefore, the atom is considered to be the basic building block of 
 matter. However, atoms are almost always grouped together with other 
 atoms to form what is called a molecule. Only a few gases such as helium
  are composed of individual atoms as the structural unit. 
 ##### Element:
-Any material that is composed of only one type of atom is called a chemical element, a basic element, or just an element. Any material that is composed of more than one type of atom is called a compound.
+- The periodic table, also known as the periodic table of elements, is a tabular display of the chemical elements, which are arranged by atomic number, electron configuration, and recurring chemical properties. - https://en.wikipedia.org/wiki/Periodic_table
+> Any material that is composed of only one type of atom is called a chemical element, a basic element, or just an element. Any material that is composed of more than one type of atom is called a compound.
  Every element has a unique atomic structure. Scientists know of only 
 about 109 basic elements at this time. (This number has a habit of 
 changing.) All matter is composed of combinations of one or more of 
