@@ -414,6 +414,8 @@ oxygen, iron, copper, gold, aluminum, uranium. The periodic table of
 elements (shown below) lists the basic elements and some of their 
 properties.
 ### Electromagnetism
+> Conductors conduct electrical current very easily because of their free electrons Some common conductors are copper, aluminum, gold, and silver.
+Insulators oppose electrical current and make poor conductors.Some common insulators are glass, air, plastic, rubber, and wood.
 - A complete explaination of electical current and how its produced - https://www.nde-ed.org/EducationResources/HighSchool/Electricity/electricalcurrent.htm
   - > This is one of the most thorough explanations of electricty at the atomic level. Aswell as it's explanation on production, traversing & the measurement of electricity.
 - Coulombs Law - https://en.wikipedia.org/wiki/Coulomb%27s_law
