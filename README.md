@@ -414,16 +414,15 @@ oxygen, iron, copper, gold, aluminum, uranium. The periodic table of
 elements (shown below) lists the basic elements and some of their 
 properties.
 ### Electromagnetism
-<b>Valence shell</b>: Notice that in the copper atom pictured below that the outside shell has only one electron. This represents that the copper atom has one electron that is near the outer portion of the atom. The outer shell of any atom is called the valence shell. When the valence electron in any atom gains sufficient energy from some outside force, it can break away from the parent atom and become what is called a free electron.</b>
+<b>Current/Amperage:</b> An electric current is the rate of flow of electric charge past a point[1]:2[2]:622 or region.[2]:614 An electric current is said to exist when there is a net flow of electric charge through a region.</br>
+<b>Voltage:</b> Voltage, electric potential difference, electric pressure or electric tension is the difference in electric potential between two points. The difference in electric potential between two points (i.e., voltage) in a static electric field is defined as the work needed per unit of charge to move a test charge between the two points.</br>
+<b>Resistance:</b> The electrical resistance of an object is a measure of its opposition to the flow of electric current. The inverse quantity is electrical conductance, and is the ease with which an electric current passes. Electrical resistance shares some conceptual parallels with the notion of mechanical friction.</br>
+<b>Conductors:</b> conduct electrical current very easily because of their free electrons Some common conductors are copper, aluminum, gold, and silver.</br>
+<b>Insulators:</b> oppose electrical current and make poor conductors.Some common insulators are glass, air, plastic, rubber, and wood.</br>
+<b>Valence shell</b>: Notice that in the copper atom pictured below that the outside shell has only one electron. This represents that the copper atom has one electron that is near the outer portion of the atom. The outer shell of any atom is called the valence shell. When the valence electron in any atom gains sufficient energy from some outside force, it can break away from the parent atom and become what is called a free electron.
 <p align="center">
    <img src="images/physics/electricity/copperatom.gif">
    </p>
-<b>Conductors:</b> conduct electrical current very easily because of their free electrons Some common conductors are copper, aluminum, gold, and silver.</br>
-<b>Insulators:</b> oppose electrical current and make poor conductors.Some common insulators are glass, air, plastic, rubber, and wood.</br>
-<b>Current/Amperage:</b> An electric current is the rate of flow of electric charge past a point[1]:2[2]:622 or region.[2]:614 An electric current is said to exist when there is a net flow of electric charge through a region.</br>
-<b>Voltage:</b> Voltage, electric potential difference, electric pressure or electric tension is the difference in electric potential between two points. The difference in electric potential between two points (i.e., voltage) in a static electric field is defined as the work needed per unit of charge to move a test charge between the two points.</br>
-<b>Resistance:</b> The electrical resistance of an object is a measure of its opposition to the flow of electric current. The inverse quantity is electrical conductance, and is the ease with which an electric current passes. Electrical resistance shares some conceptual parallels with the notion of mechanical friction.
-
 
 - A complete explaination of electical current and how its produced - https://www.nde-ed.org/EducationResources/HighSchool/Electricity/electricalcurrent.htm
   - > This is one of the most thorough explanations of electricty at the atomic level. Aswell as it's explanation on production, traversing & the measurement of electricity.
