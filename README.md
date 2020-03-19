@@ -414,8 +414,10 @@ oxygen, iron, copper, gold, aluminum, uranium. The periodic table of
 elements (shown below) lists the basic elements and some of their 
 properties.
 ### Electromagnetism
-<b>Valence shell</b>: Notice that in the copper atom pictured below that the outside shell has only one electron. This represents that the copper atom has one electron that is near the outer portion of the atom. The outer shell of any atom is called the valence shell. When the valence electron in any atom gains sufficient energy from some outside force, it can break away from the parent atom and become what is called a free electron.
-![Valence shell](https://www.nde-ed.org/EducationResources/HighSchool/Electricity/Graphics/copperatom.gif)
+<b>Valence shell</b>: Notice that in the copper atom pictured below that the outside shell has only one electron. This represents that the copper atom has one electron that is near the outer portion of the atom. The outer shell of any atom is called the valence shell. When the valence electron in any atom gains sufficient energy from some outside force, it can break away from the parent atom and become what is called a free electron.</b>
+<p align="center">
+   <img src="images/physics/electricity/copperatom.gif">
+   </p>
 <b>Conductors:</b> conduct electrical current very easily because of their free electrons Some common conductors are copper, aluminum, gold, and silver.</br>
 <b>Insulators:</b> oppose electrical current and make poor conductors.Some common insulators are glass, air, plastic, rubber, and wood.</br>
 <b>Current/Amperage:</b> An electric current is the rate of flow of electric charge past a point[1]:2[2]:622 or region.[2]:614 An electric current is said to exist when there is a net flow of electric charge through a region.</br>
