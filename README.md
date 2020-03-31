@@ -248,7 +248,10 @@ Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advan
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
  - Object-Oriented Programming in ANSI C - https://www.cs.rit.edu/~ats/books/ooc.pdf
    - > Must Read!
-
+ - C runs on a Abstract Machine Model - https://words.steveklabnik.com/should-you-learn-c-to-learn-how-the-computer-works
+   - > Explains on why C and Java are not really that different i.e. of the virtual machine.
+       ANSI C(C89) is written in the same year as the ANSI Standard which is why it's portable to most machines.
+       C is however executed on an Abstract machine model and therefore not the actual Computer architecture.
 
 ## JAVA
 - Summary of Creating & Using Classes & Objects - https://docs.oracle.com/javase/tutorial/java/javaOO/summaryclasses.html
