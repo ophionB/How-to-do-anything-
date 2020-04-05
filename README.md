@@ -7,6 +7,8 @@
    LearnXinYminutes - learnxinyminutes.com/
    Explorable Explanations - https://explorabl.es/
    Build your own X - https://github.com/danistefanovic/build-your-own-x
+   explain that stuff - explainthatstuff.com
+   how stuff works - howstuffworks.com
 
    ```
 
