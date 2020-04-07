@@ -442,6 +442,8 @@ properties.
 
 
 # TOOLS
+Topics about tools:</br>
+https://news.ycombinator.com/item?id=22786853
 
 ## Hasura
 https://hasura.io/</br>
