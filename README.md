@@ -19,8 +19,16 @@
 
 ## To Learn:
 - Mathematics - https://en.wikipedia.org/wiki/Mathematics
-  - space - https://en.wikipedia.org/wiki/Geometry
-  - structure - https://en.wikipedia.org/wiki/Algebra
+  - Arithmetic - https://en.wikipedia.org/wiki/Arithmetic
+    - Involves operations such as Addition, Substraction, Multiplication & Division.
+  - Algebra - https://en.wikipedia.org/wiki/Algebra
+    - Introduction of a variable in-place of an unknown number.
+  - Calculus - https://en.wikipedia.org/wiki/Calculus
+    - Study of continuous change.
+  - Trigonometry - https://en.wikipedia.org/wiki/Trigonometry
+    - Studies the relationship between a triangle's lengths and angles.
+  - Geometry - https://en.wikipedia.org/wiki/Geometry
+    - Study of shapes, figures, size and their properties.
 - Physics
   - Quantum Mechanics
   
