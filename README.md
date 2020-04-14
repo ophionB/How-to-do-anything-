@@ -300,6 +300,12 @@ memory.
 
 ## DNS
  > The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers and comes down to resolving the domain(i.e. https://sub.second-level-domain.tld) to its servers IP adress, This is done by your computer or DNS Resolver requesting a 'Root DNS server'(https://root-servers.org/) for an IP adress that knows more about the requested 'Top Level Domains' i.e 'com' 'org' etc... this would than reply with an IP adress of a top-level-domain name server that knows more about its registered second-level-domains & requests the IP of the second-level-domain. in the case of an sub domain the domain's name server (authorative server) would be able to tell the resolver which IP address has the HTML files for the site. This process is called recursive resolution, because you have to go back and forth asking different servers what’s basically the same question.
+ 
+#### How can DNS be exploited?
+So how can this system make users vulnerable?
+Usually a resolver will tell each Domain Name System Server what domain you are 
+looking for. This request sometimes includes your full IP address. Or if not your full IP address, increasingly often the request includes most of your IP address, which can easily be combined with other information to figure out your identity.
+
 
 ## FINANCE
 #### MANAGEMENT
