@@ -373,7 +373,7 @@ such questions as: "What makes justified beliefs justified?",[3] "What does it m
 
 
 ## Privacy & Security
-> Re-route and tunnel all connections on all devices to your home network through 'WireGuard' containing a net wide adblocker 'Pi-Hole' and 'VPN' over router, forward to dns resolver, use a 7-Layer Firewall named 'Little Snitch' to control incoming & outgoing packets. Spoof your 'MAC' adress, Use 'FireFox' or 'TOR' to browse the internet.
+> Re-route and tunnel all connections on all devices to your home network through 'WireGuard' containing a net wide adblocker 'Pi-Hole' and 'VPN' over router, Use a trusted DNS resolver using Http-over-dns, use a 7-Layer Firewall named 'Little Snitch' to control incoming & outgoing packets. Spoof your 'MAC' adress, Use 'FireFox' or 'TOR' to browse the internet.
 - Communities
   - privacytools.io - Privacy information
   - thatoneprivacysite.com - Indepedent comparison site.
