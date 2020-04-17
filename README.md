@@ -488,6 +488,10 @@ properties.
 Topics about tools:</br>
 https://news.ycombinator.com/item?id=22786853
 
+## Keycloak
+https://www.keycloak.org/</br>
+
+
 ## Hasura
 https://hasura.io/</br>
 Hasura by far, lets you point-and-click build your database and table relationships with a web dashboard and autogenerates a full GraphQL CRUD API with permissions you can configure and JWT/webhook auth baked-in.
