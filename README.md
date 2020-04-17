@@ -490,7 +490,8 @@ https://news.ycombinator.com/item?id=22786853
 
 ## Keycloak
 https://www.keycloak.org/</br>
-
+Add authentication to applications and secure services with minimum fuss. No need to deal with storing users or authenticating users. It's all available out of the box.                
+You'll even get advanced features such as User Federation, Identity Brokering and Social Login.
 
 ## Hasura
 https://hasura.io/</br>
