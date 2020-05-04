@@ -480,6 +480,10 @@ properties.
 - Electric charge -  https://en.wikipedia.org/wiki/Electric_charge
 - Electromagnetic Spectrum [ BEST EXPLANATION by NASA ] - https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html
 
+### Radio Waves
+#### Frequency Modulation - https://en.wikipedia.org/wiki/Frequency_modulation
+> Frequency modulation (FM) is the encoding of information in a carrier wave by varying the instantaneous frequency of the       wave. The term and technology is used in both telecommunications and signal processing. 
+
 ### Quantum Mechanics
 - Walking with atoms – chemical bond making and breaking recorded in action - https://www.nottingham.ac.uk/news/walking-with-atoms
 
