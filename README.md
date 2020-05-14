@@ -289,6 +289,10 @@ memory.
 ## Web Development
  > Use alot of random yet relative text, alot of variations, and depending on the project alot of Emoji's
 - All Emojis -  https://www.w3schools.com/charsets/ref_emoji.asp
+- Http-Cookies - https://en.wikipedia.org/wiki/HTTP_cookie
+  - > An HTTP cookie (also called web cookie, Internet cookie, browser cookie, or simply cookie) is a small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information (such as items added in the shopping cart in an online store) or to record the user's browsing activity (including clicking particular buttons, logging in, or recording which pages were visited in the past). They can also be used to remember arbitrary pieces of information that the user previously entered into form fields such as names, addresses, passwords, and credit-card numbers.
+
+Cookies perform essential functions in the modern web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with. Without such a mechanism, the site would not know whether to send a page containing sensitive information, or require the user to authenticate themselves by logging in. The security of an authentication cookie generally depends on the security of the issuing website and the user's web browser, and on whether the cookie data is encrypted. Security vulnerabilities may allow a cookie's data to be read by a hacker, used to gain access to user data, or used to gain access (with the user's credentials) to the website to which the cookie belongs (see cross-site scripting and cross-site request forgery for examples).[1]
 #### CSS
 - All Selectors - https://www.w3schools.com/cssref/css_selectors.asp
 - Learn to layout - https://learnlayout.com/
@@ -297,6 +301,10 @@ memory.
 #### JAVASCRIPT
 - Parcel - Fast, zero-configuration web application bundler - https://parceljs.org/
 - Libraries & Frameworks - https://www.javascripting.com
+- AJAX - https://en.wikipedia.org/wiki/Ajax_(programming)
+  - > Ajax (also AJAX /ˈeɪdʒæks/; short for "Asynchronous JavaScript and XML")[1][2] is a set of web development techniques using many web technologies on the client side to create asynchronous web applications. With Ajax, web applications can send and retrieve data from a server asynchronously (in the background) without interfering with the display and behavior of the existing page. By decoupling the data interchange layer from the presentation layer, Ajax allows web pages and, by extension, web applications, to change content dynamically without the need to reload the entire page.[3] In practice, modern implementations commonly utilize JSON instead of XML.
+
+Ajax is not a single technology, but rather a group of technologies. HTML and CSS can be used in combination to mark up and style information. The webpage can then be modified by JavaScript to dynamically display—and allow the user to interact with—the new information. The built-in XMLHttpRequest object, or since 2017 the new "fetch()" function within JavaScript, is commonly used to execute Ajax on webpages allowing websites to load content onto the screen without refreshing the page. Ajax is not a new technology, or different language, just existing technologies used in new ways. 
 
 ## DNS
  > The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers and comes down to resolving the domain(i.e. https://sub.second-level-domain.tld) to its servers IP adress, This is done by your computer or DNS Resolver requesting a 'Root DNS server' (https://root-servers.org/) for an IP adress that knows more about the requested 'Top Level Domains' i.e 'com' 'org' etc... this would than reply with an IP adress of a 'Top Level Domain Name Server' that knows more about its registered second-level-domains & requests the IP of the second-level-domain. in the case of an sub domain the domain's name server (authorative server) would be able to tell the resolver which IP address has the HTML files for the site. This process is called recursive resolution, because you have to go back and forth asking different servers what’s basically the same question.
