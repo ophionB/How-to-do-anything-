@@ -45,15 +45,15 @@ is a megabyte, etc.  Let alone how a program was linked and loaded.  I
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
 - How computer memory works - https://www.explainthatstuff.com/how-computer-memory-works.html
-#### Architecture
+### Architecture
 - Program Counter / Instruction Pointer - https://en.wikipedia.org/wiki/Program_counter
   - > the instruction counter,[2] or just part of the instruction sequencer,[3] is a processor register    that indicates where a computer is in its program sequence
 - ISA Instruction Set Architecture - https://en.wikipedia.org/wiki/Instruction_set_architecture
 - Microarchitecture - https://en.wikipedia.org/wiki/Microarchitecture
-#### Algorithms
+### Algorithms
 > - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 - Pathfinding Demystified - https://gabrielgambetta.com/generic-search.html
-#### Networking
+### Networking
 - > A Summary of what networking is: Hosts on the ethernet (Connected by wires) sending out recursive ARP(address resolution protocol) requests. An ARP packet requests to resolve an IP Adress to an interfaces Mac Adress(Where is 192.168.xx.xx? Tell 192.168.source.ip) on its ethernet network. The gateway / Router's task is to recursively request and reply until the destination IP Adress has been reached and replied to our request. The Packet e.g. "Internet Protocol(Ether Type: 0800)" is located entirely within the ARP's payload, the payloads protocol type however is identified by the defined "Ether Type" e.g. 0800 Represents "Internet Protocol (IP)". The "Internet Protocol" Than recursively encapsulates information about the protocol used to send the information contained in its own payload for example TCP, TCP includes Byte Streams(3 way hand shake) to prevent Packet Loss, Reordering etc. Something you see often in networking is a "protocol" encapsulating another "protocol". In-Depth Explanation: https://www.youtube.com/watch?v=xNbdeyEI-nE.
 > Internet communication protocols are published by the Internet Engineering Task Force (IETF). The IEEE handles wired and wireless networking, and the International Organization for Standardization (ISO) handles other types. The ITU-T handles telecommunication protocols and formats for the public switched telephone network (PSTN). As the PSTN and Internet converge, the standards are also being driven towards convergence
 - Packets - https://en.wikipedia.org/wiki/Network_packet
@@ -109,7 +109,7 @@ A small packet size means large header content thus useful information would for
 Thus smaller packet size makes network inefficient by pumping more useless bits  an congesting it.
 Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advanced interfaces, it could go till 9000 bytes too
       
-#### Design Patterns
+### Design Patterns
 *Basic principles*
 - ```
   Keep It Simple Stupid Principle - https://en.wikipedia.org/wiki/KISS_principle
@@ -131,6 +131,7 @@ Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advan
    ```
 - Java design patterns - https://github.com/iluwatar/java-design-patterns
 
+
 ## Programming
 #### C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
@@ -140,7 +141,7 @@ Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advan
    - > Explains on why C and Java are not really that different i.e. of the virtual machine.
        ANSI C(C89) is written in the same year as the ANSI Standard which is why it's portable to most machines.
        C is however executed on an Abstract machine model and therefore not the actual Computer architecture.
-
+       
 #### JAVA
 - Summary of Creating & Using Classes & Objects - https://docs.oracle.com/javase/tutorial/java/javaOO/summaryclasses.html
 - The Really Big Index - https://docs.oracle.com/javase/tutorial/reallybigindex.html
@@ -148,10 +149,8 @@ Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advan
 - Learn about annotations - https://en.wikipedia.org/wiki/Java_annotation
 - Java is awesome - https://github.com/akullpp/awesome-java
 
-
 #### KOTLIN
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
-
 
 #### SQL
 - https://en.wikipedia.org/wiki/Database_index
@@ -171,11 +170,13 @@ memory.
   - > An HTTP cookie (also called web cookie, Internet cookie, browser cookie, or simply cookie) is a small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information (such as items added in the shopping cart in an online store) or to record the user's browsing activity (including clicking particular buttons, logging in, or recording which pages were visited in the past). They can also be used to remember arbitrary pieces of information that the user previously entered into form fields such as names, addresses, passwords, and credit-card numbers.
 
 Cookies perform essential functions in the modern web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with. Without such a mechanism, the site would not know whether to send a page containing sensitive information, or require the user to authenticate themselves by logging in. The security of an authentication cookie generally depends on the security of the issuing website and the user's web browser, and on whether the cookie data is encrypted. Security vulnerabilities may allow a cookie's data to be read by a hacker, used to gain access to user data, or used to gain access (with the user's credentials) to the website to which the cookie belongs (see cross-site scripting and cross-site request forgery for examples).[1]
+
 #### CSS
 - All Selectors - https://www.w3schools.com/cssref/css_selectors.asp
 - Learn to layout - https://learnlayout.com/
 - everything you need to know - https://learn.shayhowe.com/html-css/
 - HTML - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+
 #### JAVASCRIPT
 - Parcel - Fast, zero-configuration web application bundler - https://parceljs.org/
 - Libraries & Frameworks - https://www.javascripting.com
@@ -186,6 +187,7 @@ Ajax is not a single technology, but rather a group of technologies. HTML and CS
 
 - XmlHttpRequest - https://en.wikipedia.org/wiki/XMLHttpRequest
   - > XMLHttpRequest (XHR) is an API in the form of an object whose methods transfer data between a web browser and a web server. The object is provided by the browser's JavaScript environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded web page is the underlying concept of Ajax design. Despite the name, XHR can be used with protocols other than HTTP and data can be in the form of not only XML,[1] but also JSON,[2] HTML or plain text.[3] 
+
 
 ## Commercial Development Tools
 Topics about tools:</br>
@@ -224,6 +226,7 @@ Metabase is an open source business intelligence tool. It lets you ask questions
 ### Adalo
 https://www.adalo.com
 Create IOS & Android apps with a no-code tool that is as powerful as code.
+
 
 ## Privacy, Security, Hacking, Anonimity & Forensics
 - <b>Communities</b>
@@ -288,6 +291,7 @@ on one of three hard mathematical problems:  the integer factorization problem, 
 ### Intelligence / Forensic / OSINT
 List of intelligence gathering disciplines - https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines
 
+
 ## Physics
 ##### Molecule:
 > All matter such as solids, liquids, and gases, is composed of atoms.
@@ -333,12 +337,14 @@ properties.
 ### Quantum Mechanics
 - Walking with atoms – chemical bond making and breaking recorded in action - https://www.nottingham.ac.uk/news/walking-with-atoms
 
+
 ## FINANCE
 #### MANAGEMENT
  - Personal Finance - https://www.reddit.com/r/personalfinance/wiki/commontopics#wiki_graphical_version
 #### TRADING
  - VTSAX  - Mutual Index Fund - https://www.youtube.com/watch?v=ftMOJm8HXqk<br/>
    - > VTSAX is a Mutual Index Fund, Mutual meaning a combination of other indexes (e.g. Dow Jones) i.e. you're investing in the entire stock market, which grows as the economy inflates.
+
 
 ## NEWS & COMMUNITIES
  > All the news sources here are legitimate and very informative resources of information.
@@ -351,6 +357,7 @@ properties.
  - Hackaday - https://hackaday.com/
  - Slashdot - https://slashdot.org/
  - Lobsters - https://lobste.rs/
+ 
  
  ## Human behavior & Psychology
  - Tiny Habits - Tinyhabits.com
@@ -369,11 +376,13 @@ the criteria for knowledge and justification. Epistemology addresses
 such questions as: "What makes justified beliefs justified?",[3] "What does it mean to say that we know something?",[4] and fundamentally "How do we know that we know?"[5]
 - https://en.wikipedia.org/wiki/List_of_cognitive_biases - Cognitive biases are systematic patterns of deviation from norm or rationality in judgment
 
+
 ## Home Automation
 - Home Assistant - https://www.home-assistant.io/
   - > Open source home automation that puts local control and privacy first. 
 Powered by a worldwide community of tinkerers and DIY enthusiasts. 
 Perfect to run on a Raspberry Pi or a local server.
+
 
 ## Music
 - Waveforms - https://pudding.cool/2018/02/waveforms/
@@ -403,15 +412,13 @@ appropriate harmonics, and at the appropriate amplitude levels. In
 essence, a square wave can be thought of as an infinite number of sine 
 waves, all happening at very specific frequencies and amplitudes.
 
-## Nutrition
-#### Supplements:
-Vitamine D - https://www.grc.com/health/vitamin-d.htm
-#### Best buys:
-- [De Notenshop](https://denotenshop.nl) - Big bulk seeds/nuts & alot of other highly nutritional foods, affordable and home delivered.
-- [Pit&Pit](https://pit-pit.com) - All Spices, seeds, nuts & supplements, Affordable and home delivered.
-#### Nutritional Information:
-- everything you need to know - https://en.m.wikipedia.org/wiki/Veganism
 
+## Physiology & Anatomy
+### Physiology
+Alternate Nostril Breathing - https://en.wikipedia.org/wiki/Pranayama
+Vitamine D - https://www.grc.com/health/vitamin-d.htm
+
+### Anatomy
 
 
 
