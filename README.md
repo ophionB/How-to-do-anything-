@@ -187,47 +187,43 @@ Ajax is not a single technology, but rather a group of technologies. HTML and CS
 - XmlHttpRequest - https://en.wikipedia.org/wiki/XMLHttpRequest
   - > XMLHttpRequest (XHR) is an API in the form of an object whose methods transfer data between a web browser and a web server. The object is provided by the browser's JavaScript environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded web page is the underlying concept of Ajax design. Despite the name, XHR can be used with protocols other than HTTP and data can be in the form of not only XML,[1] but also JSON,[2] HTML or plain text.[3] 
 
+## Commercial Development Tools
+Topics about tools:</br>
+https://news.ycombinator.com/item?id=22786853
 
+### Keycloak
+https://www.keycloak.org/</br>
+Add authentication to applications and secure services with minimum fuss. No need to deal with storing users or authenticating users. It's all available out of the box.                
+You'll even get advanced features such as User Federation, Identity Brokering and Social Login.
 
+### Hasura
+https://hasura.io/</br>
+Hasura by far, lets you point-and-click build your database and table relationships with a web dashboard and autogenerates a full GraphQL CRUD API with permissions you can configure and JWT/webhook auth baked-in.
 
+I've been able to build in a weekend no-code what would've taken my team weeks or months to build by hand, even with something as productive as Rails. It automates the boring stuff and you just have to write single endpoints for custom business logic, like "send a welcome email on sign-up" or "process a payment".
 
-## FINANCE
-#### MANAGEMENT
- - Personal Finance - https://www.reddit.com/r/personalfinance/wiki/commontopics#wiki_graphical_version
-#### TRADING
- - VTSAX  - Mutual Index Fund - https://www.youtube.com/watch?v=ftMOJm8HXqk<br/>
-   - > VTSAX is a Mutual Index Fund, Mutual meaning a combination of other indexes (e.g. Dow Jones) i.e. you're investing in the entire stock market, which grows as the economy inflates.
+It has a database viewer, but it's not the core of the product, so I use Forest Admin to autogenerate an Admin Dashboard that non-technical team members can use.
 
+For interacting with Hasura from a client, you can autogenerate fully-typed & documented query components in your framework of choice using GraphQL Code Generator:</br>
+https://graphql-code-generator.com/
 
-## NEWS & COMMUNITIES
- > All the news sources here are legitimate and very informative resources of information.
- - 0x00sec - 0x00sec.org
- - Hacker News - news.ycombinator.com
- - The Economist - economist.com<br/>
-   - > 1. It's weekly. "World this week" section is more than enough to have a summary of what has happened throughout the globe and I can get this information in less than 5 minutes. If you are interested in being more up-to-date, you can also try Economist Espresso, which is daily.<br/>
-   - > 2. It's not only about world news, but also has different sections such as Technology, International, Book & Arts which gives me a wider range of topics to digest on a weekly basis.
- - The Well - https://www.well.com/ - :dollar:
- - Hackaday - https://hackaday.com/
- - Slashdot - https://slashdot.org/
- - Lobsters - https://lobste.rs/
- 
- 
- ## Human behavior & Psychology
- - Tiny Habits - Tinyhabits.com
-   - > The Tiny Habits habit formation 
-regime created by Stanford researcher BJ Fogg. A lot of the addictive 
-design patterns you see in apps like Snapchat, Instagram, etc. are built
- off his research. Quite nefarious use of psychology for 
-advertising/“engagement”, but the plus side is you can use the same 
-strategies to build habits you want to build.
-- Epistemology - https://en.wikipedia.org/wiki/Epistemology
-  - > Epistemology is the study of the nature of knowledge, justification, and
- the rationality of belief. Much debate in epistemology centers on four 
-areas: (1) the philosophical analysis of the nature of knowledge and how it relates to such concepts as truth, belief, and justification,[1][2] (2) various problems of skepticism,
- (3) the sources and scope of knowledge and justified belief, and (4) 
-the criteria for knowledge and justification. Epistemology addresses 
-such questions as: "What makes justified beliefs justified?",[3] "What does it mean to say that we know something?",[4] and fundamentally "How do we know that we know?"[5]
-- https://en.wikipedia.org/wiki/List_of_cognitive_biases - Cognitive biases are systematic patterns of deviation from norm or rationality in judgment
+### Forest Admin
+https://www.forestadmin.com/</br>
+With Forest Admin & Hasura, you can point-and-click make 80% of a SaaS product in almost no time.
+I wrote a tutorial on how to integrate Hasura + Forest Admin, for anyone interested:</br>
+http://hasura-forest-admin.surge.sh
+
+### retool
+https://retool.com</br>
+Retool cuts the time it takes to build internal tools in half so you can focus on what matters
+
+### Metabase
+https://metabase.com</br>
+Metabase is an open source business intelligence tool. It lets you ask questions about your data, and displays answers in formats that make sense, whether that’s a bar graph or a detailed table.
+
+### Adalo
+https://www.adalo.com
+Create IOS & Android apps with a no-code tool that is as powerful as code.
 
 ## Privacy, Security, Hacking, Anonimity & Forensics
 - <b>Communities</b>
@@ -291,53 +287,6 @@ on one of three hard mathematical problems:  the integer factorization problem, 
 
 ### Intelligence / Forensic / OSINT
 List of intelligence gathering disciplines - https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines
-  
-
-## Home Automation
-- Home Assistant - https://www.home-assistant.io/
-  - > Open source home automation that puts local control and privacy first. 
-Powered by a worldwide community of tinkerers and DIY enthusiasts. 
-Perfect to run on a Raspberry Pi or a local server.
-
-## Music
-- Waveforms - https://pudding.cool/2018/02/waveforms/
-  - > An audio wave is the vibration of air
-molecules, which is how sound travels. A waveform describes a wave by 
-graphing how an air molecule is displaced, over time.
-Amplitude
-is the strength of a wave's effect; the higher the amplitude, the more 
-the air molecules are displaced. This also translates into loudness for 
-the human ear; increasing a wave's amplitude will increase how loud it 
-seems to us.
-The most common periodic waveforms are the sine, triangle, square, and sawtooth.
-These
-waveforms are said to be periodic because the wave they represent can 
-be repeated to produce a constant tone. The faster the wave repeats, the
-higher the pitch of the sound.
-Different
-waveforms have different harmonics. A harmonic is an additional 
-frequency created by the wave. The sine waveform is unique in that it 
-doesn't have any additional harmonics; it is the fundamental waveform.
-To
-understand why certain waveforms have harmonics, we can attack the 
-problem from the opposite end. Because the sine waveform is the 
-fundamental waveform, it can be used to approximate all the other 
-periodic waveforms, by just adding additional sine waves at the 
-appropriate harmonics, and at the appropriate amplitude levels. In 
-essence, a square wave can be thought of as an infinite number of sine 
-waves, all happening at very specific frequencies and amplitudes.
-
-
-## DIY
-
-## Nutrition
-#### Supplements:
-Vitamine D - https://www.grc.com/health/vitamin-d.htm
-#### Best buys:
-- [De Notenshop](https://denotenshop.nl) - Big bulk seeds/nuts & alot of other highly nutritional foods, affordable and home delivered.
-- [Pit&Pit](https://pit-pit.com) - All Spices, seeds, nuts & supplements, Affordable and home delivered.
-#### Nutritional Information:
-- everything you need to know - https://en.m.wikipedia.org/wiki/Veganism
 
 ## Physics
 ##### Molecule:
@@ -384,44 +333,89 @@ properties.
 ### Quantum Mechanics
 - Walking with atoms – chemical bond making and breaking recorded in action - https://www.nottingham.ac.uk/news/walking-with-atoms
 
+## FINANCE
+#### MANAGEMENT
+ - Personal Finance - https://www.reddit.com/r/personalfinance/wiki/commontopics#wiki_graphical_version
+#### TRADING
+ - VTSAX  - Mutual Index Fund - https://www.youtube.com/watch?v=ftMOJm8HXqk<br/>
+   - > VTSAX is a Mutual Index Fund, Mutual meaning a combination of other indexes (e.g. Dow Jones) i.e. you're investing in the entire stock market, which grows as the economy inflates.
 
-# TOOLS
-Topics about tools:</br>
-https://news.ycombinator.com/item?id=22786853
+## NEWS & COMMUNITIES
+ > All the news sources here are legitimate and very informative resources of information.
+ - 0x00sec - 0x00sec.org
+ - Hacker News - news.ycombinator.com
+ - The Economist - economist.com<br/>
+   - > 1. It's weekly. "World this week" section is more than enough to have a summary of what has happened throughout the globe and I can get this information in less than 5 minutes. If you are interested in being more up-to-date, you can also try Economist Espresso, which is daily.<br/>
+   - > 2. It's not only about world news, but also has different sections such as Technology, International, Book & Arts which gives me a wider range of topics to digest on a weekly basis.
+ - The Well - https://www.well.com/ - :dollar:
+ - Hackaday - https://hackaday.com/
+ - Slashdot - https://slashdot.org/
+ - Lobsters - https://lobste.rs/
+ 
+ ## Human behavior & Psychology
+ - Tiny Habits - Tinyhabits.com
+   - > The Tiny Habits habit formation 
+regime created by Stanford researcher BJ Fogg. A lot of the addictive 
+design patterns you see in apps like Snapchat, Instagram, etc. are built
+ off his research. Quite nefarious use of psychology for 
+advertising/“engagement”, but the plus side is you can use the same 
+strategies to build habits you want to build.
+- Epistemology - https://en.wikipedia.org/wiki/Epistemology
+  - > Epistemology is the study of the nature of knowledge, justification, and
+ the rationality of belief. Much debate in epistemology centers on four 
+areas: (1) the philosophical analysis of the nature of knowledge and how it relates to such concepts as truth, belief, and justification,[1][2] (2) various problems of skepticism,
+ (3) the sources and scope of knowledge and justified belief, and (4) 
+the criteria for knowledge and justification. Epistemology addresses 
+such questions as: "What makes justified beliefs justified?",[3] "What does it mean to say that we know something?",[4] and fundamentally "How do we know that we know?"[5]
+- https://en.wikipedia.org/wiki/List_of_cognitive_biases - Cognitive biases are systematic patterns of deviation from norm or rationality in judgment
 
-## Keycloak
-https://www.keycloak.org/</br>
-Add authentication to applications and secure services with minimum fuss. No need to deal with storing users or authenticating users. It's all available out of the box.                
-You'll even get advanced features such as User Federation, Identity Brokering and Social Login.
+## Home Automation
+- Home Assistant - https://www.home-assistant.io/
+  - > Open source home automation that puts local control and privacy first. 
+Powered by a worldwide community of tinkerers and DIY enthusiasts. 
+Perfect to run on a Raspberry Pi or a local server.
 
-## Hasura
-https://hasura.io/</br>
-Hasura by far, lets you point-and-click build your database and table relationships with a web dashboard and autogenerates a full GraphQL CRUD API with permissions you can configure and JWT/webhook auth baked-in.
+## Music
+- Waveforms - https://pudding.cool/2018/02/waveforms/
+  - > An audio wave is the vibration of air
+molecules, which is how sound travels. A waveform describes a wave by 
+graphing how an air molecule is displaced, over time.
+Amplitude
+is the strength of a wave's effect; the higher the amplitude, the more 
+the air molecules are displaced. This also translates into loudness for 
+the human ear; increasing a wave's amplitude will increase how loud it 
+seems to us.
+The most common periodic waveforms are the sine, triangle, square, and sawtooth.
+These
+waveforms are said to be periodic because the wave they represent can 
+be repeated to produce a constant tone. The faster the wave repeats, the
+higher the pitch of the sound.
+Different
+waveforms have different harmonics. A harmonic is an additional 
+frequency created by the wave. The sine waveform is unique in that it 
+doesn't have any additional harmonics; it is the fundamental waveform.
+To
+understand why certain waveforms have harmonics, we can attack the 
+problem from the opposite end. Because the sine waveform is the 
+fundamental waveform, it can be used to approximate all the other 
+periodic waveforms, by just adding additional sine waves at the 
+appropriate harmonics, and at the appropriate amplitude levels. In 
+essence, a square wave can be thought of as an infinite number of sine 
+waves, all happening at very specific frequencies and amplitudes.
 
-I've been able to build in a weekend no-code what would've taken my team weeks or months to build by hand, even with something as productive as Rails. It automates the boring stuff and you just have to write single endpoints for custom business logic, like "send a welcome email on sign-up" or "process a payment".
+## Nutrition
+#### Supplements:
+Vitamine D - https://www.grc.com/health/vitamin-d.htm
+#### Best buys:
+- [De Notenshop](https://denotenshop.nl) - Big bulk seeds/nuts & alot of other highly nutritional foods, affordable and home delivered.
+- [Pit&Pit](https://pit-pit.com) - All Spices, seeds, nuts & supplements, Affordable and home delivered.
+#### Nutritional Information:
+- everything you need to know - https://en.m.wikipedia.org/wiki/Veganism
 
-It has a database viewer, but it's not the core of the product, so I use Forest Admin to autogenerate an Admin Dashboard that non-technical team members can use.
 
-For interacting with Hasura from a client, you can autogenerate fully-typed & documented query components in your framework of choice using GraphQL Code Generator:</br>
-https://graphql-code-generator.com/
 
-## Forest Admin
-https://www.forestadmin.com/</br>
-With Forest Admin & Hasura, you can point-and-click make 80% of a SaaS product in almost no time.
-I wrote a tutorial on how to integrate Hasura + Forest Admin, for anyone interested:</br>
-http://hasura-forest-admin.surge.sh
 
-## retool
-https://retool.com</br>
-Retool cuts the time it takes to build internal tools in half so you can focus on what matters
 
-## Metabase
-https://metabase.com</br>
-Metabase is an open source business intelligence tool. It lets you ask questions about your data, and displays answers in formats that make sense, whether that’s a bar graph or a detailed table.
-
-## Adalo
-https://www.adalo.com
-Create IOS & Android apps with a no-code tool that is as powerful as code.
 
 
 
