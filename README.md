@@ -261,28 +261,32 @@ the criteria for knowledge and justification. Epistemology addresses
 such questions as: "What makes justified beliefs justified?",[3] "What does it mean to say that we know something?",[4] and fundamentally "How do we know that we know?"[5]
 - https://en.wikipedia.org/wiki/List_of_cognitive_biases - Cognitive biases are systematic patterns of deviation from norm or rationality in judgment
 
-
-## Privacy & Security
+## Privacy, Security, Hacking, Anonimity & Forensics
 > Re-route and tunnel all connections on all devices to your home network through 'WireGuard' containing a net wide adblocker 'Pi-Hole' and 'VPN' over router, Use a trusted DNS resolver using Http-over-dns, use a 7-Layer Firewall named 'Little Snitch' to control incoming & outgoing packets. Spoof your 'MAC' adress & Randomize hostname and local ip on every boot, Use 'FireFox' or 'TOR' to browse the internet.
-- Communities
+- <b>Communities</b>
   - privacytools.io - Privacy information
   - thatoneprivacysite.com - Indepedent comparison site.
   - inteltechniques.com - OSINT && Privacy by Michael Bazzell
-- Info
-  - > 'log' command shows you a variety of logs the OS does by default, you can collect all the OS Logs by typing 'log collect'.
-- Hacking Strategies
-  - Man-in-the-middle attack - https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+  - 0x00sec.org
 
-- Cryptography    
-  - Graduate Course in Applied Cryptography - https://toc.cryptobook.us/
-  - Post-quantum cryptography - https://en.wikipedia.org/wiki/Post-quantum_cryptography
+### Hacking
+- <b>Tools:</b>
+   - Burpsuite - https://portswigger.net/burp
+     - > Burp Suite Community Edition is a feature-limited set of manual tools 
+         for exploring web security. Proxy your HTTPS traffic, edit and repeat 
+         requests, decode data, and more.
+- Man-in-the-middle attack - https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+
+### Cryptography    
+- Graduate Course in Applied Cryptography - https://toc.cryptobook.us/
+- Post-quantum cryptography - https://en.wikipedia.org/wiki/Post-quantum_cryptography
     - > Post-quantum cryptography (sometimes referred to as quantum-proof, quantum-safe or quantum-resistant) refers to cryptographic algorithms (usually public-key algorithms) that are thought to be secure against an attack by a quantum computer. As of 2019,
  this is not true for the most popular public-key algorithms, which can 
 be efficiently broken by a sufficiently strong quantum computer. The 
 problem with currently popular algorithms is that their security relies 
 on one of three hard mathematical problems:  the integer factorization problem, the discrete logarithm problem or the elliptic-curve discrete logarithm problem. All of these problems can be easily solved on a sufficiently powerful quantum computer running Shor's algorithm.[1][2] 
 
-## Intelligence / Forensic / OSINT
+### Intelligence / Forensic / OSINT
 List of intelligence gathering disciplines - https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines
   
 
