@@ -171,8 +171,10 @@ hope for this to be helpful, there are plenty of similar resources but
 sometimes the way one person says something resonates more than another.
 - How computer memory works - https://www.explainthatstuff.com/how-computer-memory-works.html
 #### Architecture
-ISA Instruction Set Architecture - https://en.wikipedia.org/wiki/Instruction_set_architecture
-Microarchitecture - https://en.wikipedia.org/wiki/Microarchitecture
+- Program Counter / Instruction Pointer - https://en.wikipedia.org/wiki/Program_counter
+  - > the instruction counter,[2] or just part of the instruction sequencer,[3] is a processor register    that indicates where a computer is in its program sequence
+- ISA Instruction Set Architecture - https://en.wikipedia.org/wiki/Instruction_set_architecture
+- Microarchitecture - https://en.wikipedia.org/wiki/Microarchitecture
 #### Algorithms
 > - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 - Pathfinding Demystified - https://gabrielgambetta.com/generic-search.html
@@ -356,6 +358,7 @@ But if you’re on Megastore WiFi, you’re probably using their resolver. That 
 
 ## NEWS & COMMUNITIES
  > All the news sources here are legitimate and very informative resources of information.
+ - 0x00sec - 0x00sec.org
  - Hacker News - news.ycombinator.com
  - The Economist - economist.com<br/>
    - > 1. It's weekly. "World this week" section is more than enough to have a summary of what has happened throughout the globe and I can get this information in less than 5 minutes. If you are interested in being more up-to-date, you can also try Economist Espresso, which is daily.<br/>
