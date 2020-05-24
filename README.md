@@ -131,8 +131,8 @@ Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advan
    ```
 - Java design patterns - https://github.com/iluwatar/java-design-patterns
 
-
-## C
+## Programming
+#### C
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
  - Object-Oriented Programming in ANSI C - https://www.cs.rit.edu/~ats/books/ooc.pdf
    - > Must Read!
@@ -141,7 +141,7 @@ Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advan
        ANSI C(C89) is written in the same year as the ANSI Standard which is why it's portable to most machines.
        C is however executed on an Abstract machine model and therefore not the actual Computer architecture.
 
-## JAVA
+#### JAVA
 - Summary of Creating & Using Classes & Objects - https://docs.oracle.com/javase/tutorial/java/javaOO/summaryclasses.html
 - The Really Big Index - https://docs.oracle.com/javase/tutorial/reallybigindex.html
 - The Java Whitepaper 1996 (A summary of the transition from C to Java) - http://journals.ecs.soton.ac.uk/java/whitepaper/java-whitepaper-1.html
@@ -149,11 +149,11 @@ Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advan
 - Java is awesome - https://github.com/akullpp/awesome-java
 
 
-## KOTLIN
+#### KOTLIN
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
 
 
-## SQL
+#### SQL
 - https://en.wikipedia.org/wiki/Database_index
   - > The primary purpose of an index is to provide an ordered representation 
 of the indexed data. It is, however, not possible to store the data 
@@ -187,39 +187,7 @@ Ajax is not a single technology, but rather a group of technologies. HTML and CS
 - XmlHttpRequest - https://en.wikipedia.org/wiki/XMLHttpRequest
   - > XMLHttpRequest (XHR) is an API in the form of an object whose methods transfer data between a web browser and a web server. The object is provided by the browser's JavaScript environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded web page is the underlying concept of Ajax design. Despite the name, XHR can be used with protocols other than HTTP and data can be in the form of not only XML,[1] but also JSON,[2] HTML or plain text.[3] 
 
-## DNS
- > The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers and comes down to resolving the domain(i.e. https://sub.second-level-domain.tld) to its servers IP adress, This is done by your computer or DNS Resolver requesting a 'Root DNS server' (https://root-servers.org/) for an IP adress that knows more about the requested 'Top Level Domains' i.e 'com' 'org' etc... this would than reply with an IP adress of a 'Top Level Domain Name Server' that knows more about its registered second-level-domains & requests the IP of the second-level-domain. in the case of an sub domain the domain's name server (authorative server) would be able to tell the resolver which IP address has the HTML files for the site. This process is called recursive resolution, because you have to go back and forth asking different servers what’s basically the same question.
- 
- - A cartoon introduction to DNS over HTTPS - https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/
- 
- | Exploits | Fixes |
- |  :---:   | :---: |
- |You could end up using an untrustworthy resolver that tracks your requests, or tampers with responses from DNS servers. | Avoid untrustworthy resolvers by using Trusted Recursive Resolver.|
- | On-path routers can track or tamper in the same way. | Protect against on-path eavesdropping and tampering using DNS over HTTPS. |
- | DNS servers can track your DNS requests. | Transmit as little data as possible to protect users from deanonymization. |
- 
-#### How can DNS be exploited?
-So how can this system make users vulnerable?
-Usually a resolver will tell each Domain Name System Server what domain you are 
-looking for. This request sometimes includes your full IP address. Or if not your full IP address, increasingly often the request includes most of your IP address, which can easily be combined with other information to figure out your identity.
 
-##### Tracking
-Like I said above, it’s easy to take the full or partial IP address info and figure out who’s asking for that web site. This means that the DNS server and anyone along the path to that DNS server — called on-path routers — can create a profile of you. They can create a record of all of the web sites that they’ve seen you look up.
-And that data is valuable. Many people and companies will pay lots of money to see what you are browsing for.
-
-Even if you didn’t have to worry about the possibly nefarious DNS servers or on-path routers, you still risk having your data harvested and sold. That’s because the resolver itself — the one that the network 
-gives to you — could be untrustworthy.
-
-Even if you trust your network’s recommended resolver, you’re probably only using that resolver when you’re at home. Like I mentioned before, whenever you go to a coffee shop or hotel or use any other network, you’re probably using a different resolver. And who knows what its data collection policies are?
-
-##### Spoofing
-With spoofing, someone on the path between the DNS server and you changes the response. Instead of telling you the real IP address, a spoofer will give you the wrong IP address for a site. This way, they can block you from visiting the real site or send you to a scam one.
-
-Again, this is a case where the resolver itself might act nefariously.
-
-For example, let’s say you’re shopping for something at Megastore. You want to do a price check to see if you can get it cheaper at a competing online store, big-box.com.
-
-But if you’re on Megastore WiFi, you’re probably using their resolver. That resolver could hijack the request to big-box.com and lie to you, saying that the site is unavailable.
 
 
 
@@ -262,12 +230,47 @@ such questions as: "What makes justified beliefs justified?",[3] "What does it m
 - https://en.wikipedia.org/wiki/List_of_cognitive_biases - Cognitive biases are systematic patterns of deviation from norm or rationality in judgment
 
 ## Privacy, Security, Hacking, Anonimity & Forensics
-> Re-route and tunnel all connections on all devices to your home network through 'WireGuard' containing a net wide adblocker 'Pi-Hole' and 'VPN' over router, Use a trusted DNS resolver using Http-over-dns, use a 7-Layer Firewall named 'Little Snitch' to control incoming & outgoing packets. Spoof your 'MAC' adress & Randomize hostname and local ip on every boot, Use 'FireFox' or 'TOR' to browse the internet.
 - <b>Communities</b>
   - privacytools.io - Privacy information
   - thatoneprivacysite.com - Indepedent comparison site.
   - inteltechniques.com - OSINT && Privacy by Michael Bazzell
   - 0x00sec.org
+  
+### Privacy & Anonimity  
+> Re-route and tunnel all connections on all devices to your home network through 'WireGuard' containing a net wide adblocker 'Pi-Hole' and 'VPN' over router, Use a trusted DNS resolver using Http-over-dns, use a 7-Layer Firewall named 'Little Snitch' to control incoming & outgoing packets. Spoof your 'MAC' adress & Randomize hostname and local ip on every boot, Use 'FireFox' or 'TOR' to browse the internet.
+#### DNS
+ > The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers and comes down to resolving the domain(i.e. https://sub.second-level-domain.tld) to its servers IP adress, This is done by your computer or DNS Resolver requesting a 'Root DNS server' (https://root-servers.org/) for an IP adress that knows more about the requested 'Top Level Domains' i.e 'com' 'org' etc... this would than reply with an IP adress of a 'Top Level Domain Name Server' that knows more about its registered second-level-domains & requests the IP of the second-level-domain. in the case of an sub domain the domain's name server (authorative server) would be able to tell the resolver which IP address has the HTML files for the site. This process is called recursive resolution, because you have to go back and forth asking different servers what’s basically the same question.
+ 
+ - A cartoon introduction to DNS over HTTPS - https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/
+ 
+ | Exploits | Fixes |
+ |  :---:   | :---: |
+ |You could end up using an untrustworthy resolver that tracks your requests, or tampers with responses from DNS servers. | Avoid untrustworthy resolvers by using Trusted Recursive Resolver.|
+ | On-path routers can track or tamper in the same way. | Protect against on-path eavesdropping and tampering using DNS over HTTPS. |
+ | DNS servers can track your DNS requests. | Transmit as little data as possible to protect users from deanonymization. |
+ 
+##### How can DNS be exploited?
+So how can this system make users vulnerable?
+Usually a resolver will tell each Domain Name System Server what domain you are 
+looking for. This request sometimes includes your full IP address. Or if not your full IP address, increasingly often the request includes most of your IP address, which can easily be combined with other information to figure out your identity.
+
+##### Tracking
+Like I said above, it’s easy to take the full or partial IP address info and figure out who’s asking for that web site. This means that the DNS server and anyone along the path to that DNS server — called on-path routers — can create a profile of you. They can create a record of all of the web sites that they’ve seen you look up.
+And that data is valuable. Many people and companies will pay lots of money to see what you are browsing for.
+
+Even if you didn’t have to worry about the possibly nefarious DNS servers or on-path routers, you still risk having your data harvested and sold. That’s because the resolver itself — the one that the network 
+gives to you — could be untrustworthy.
+
+Even if you trust your network’s recommended resolver, you’re probably only using that resolver when you’re at home. Like I mentioned before, whenever you go to a coffee shop or hotel or use any other network, you’re probably using a different resolver. And who knows what its data collection policies are?
+
+##### Spoofing
+With spoofing, someone on the path between the DNS server and you changes the response. Instead of telling you the real IP address, a spoofer will give you the wrong IP address for a site. This way, they can block you from visiting the real site or send you to a scam one.
+
+Again, this is a case where the resolver itself might act nefariously.
+
+For example, let’s say you’re shopping for something at Megastore. You want to do a price check to see if you can get it cheaper at a competing online store, big-box.com.
+
+But if you’re on Megastore WiFi, you’re probably using their resolver. That resolver could hijack the request to big-box.com and lie to you, saying that the site is unavailable.
 
 ### Hacking
 - <b>Tools:</b>
