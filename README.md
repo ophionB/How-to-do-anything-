@@ -417,7 +417,7 @@ waves, all happening at very specific frequencies and amplitudes.
 ### Physiology
 Alternate Nostril Breathing - https://en.wikipedia.org/wiki/Pranayama
 Vitamine D - https://www.grc.com/health/vitamin-d.htm
-Biohacking lite - https://karpathy.github.io/2020/06/11/biohacking-lite/ - MUST READ
+Biohacking lite - https://karpathy.github.io/2020/06/11/biohacking-lite/ - The goal is to completely understand this.
 
 ### Anatomy
 
