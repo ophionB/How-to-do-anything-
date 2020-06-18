@@ -134,6 +134,7 @@ Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advan
 
 ## Programming
 #### C
+ - Make - https://www.gnu.org/software/make/manual/make.html
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
  - Object-Oriented Programming in ANSI C - https://www.cs.rit.edu/~ats/books/ooc.pdf
    - > Must Read!
