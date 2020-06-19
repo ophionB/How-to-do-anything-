@@ -45,6 +45,8 @@ is a megabyte, etc.  Let alone how a program was linked and loaded.  I
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
 - How computer memory works - https://www.explainthatstuff.com/how-computer-memory-works.html
+- File Descriptors - 'man fd' explains where the descriptors are stored
+  - File Control - 'man fcntl' provides information about control over file descriptors.
 ### Architecture
 - Program Counter / Instruction Pointer - https://en.wikipedia.org/wiki/Program_counter
   - > the instruction counter,[2] or just part of the instruction sequencer,[3] is a processor register    that indicates where a computer is in its program sequence
