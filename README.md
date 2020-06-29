@@ -14,8 +14,6 @@
    
    ```
 
-- Health Effects of Tobacco - https://en.wikipedia.org/wiki/Health_effects_of_tobacco
-
 ## Table of contents
 * [Notable](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#notable)
 * [Computer Science](https://github.com/ophionB/How-to-do-anything-/blob/master/README.md#computer-science)
