@@ -16,7 +16,7 @@
    
    browse the man pages:
    ```
-   apropos . | awk '{print $1}' | grep '(3)'
+   apropos . | awk '{print $1}' | grep '(#sectionIdHere)'
    ```
    Sections of the manual pages
        The manual Sections are traditionally defined as follows:
