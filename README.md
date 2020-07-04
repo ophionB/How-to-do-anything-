@@ -170,6 +170,9 @@ Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advan
 
 ## Programming
 #### C
+ - C Syntax - https://en.wikipedia.org/wiki/C_syntax
+ - C Preprocessors - https://en.wikipedia.org/wiki/C_preprocessor
+ - Include Guards (prevent double header variables caused byrecursive inclusion) - https://en.wikipedia.org/wiki/Include_guard
  - Make - https://www.gnu.org/software/make/manual/make.html
  - Simple Client/Server connecting - https://github.com/TheAlgorithms/C/tree/master/Simple%20Client%20Server
  - Object-Oriented Programming in ANSI C - https://www.cs.rit.edu/~ats/books/ooc.pdf
