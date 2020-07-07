@@ -78,7 +78,10 @@ systems courses without realising things like 2^10 is a kilobyte, 2^20
 is a megabyte, etc.  Let alone how a program was linked and loaded.  I 
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
+- Object Oriented programming - https://en.wikipedia.org/wiki/Object-oriented_programming
 - How computer memory works - https://www.explainthatstuff.com/how-computer-memory-works.html
+-  https://en.wikipedia.org/wiki/Virtual_address_space
+   - virtual address space (VAS) or address space is the set of ranges of virtual addresses that an operating system makes available to a process
 - File Descriptors - 'man fd' explains where the descriptors are stored - https://www.bottomupcs.com/file_descriptors.xhtml
   - File Control - 'man fcntl' provides information about control over file descriptors.
 ### Architecture
