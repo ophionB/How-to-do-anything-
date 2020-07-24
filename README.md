@@ -95,6 +95,11 @@ at a separate location addressed via a pointer).
 - File Descriptors - 'man fd' explains where the descriptors are stored - https://www.bottomupcs.com/file_descriptors.xhtml
   - File Control - 'man fcntl' provides information about control over file descriptors.
 ### Architecture
+> A general purpose computer has four main components: the arithmetic logic unit (ALU), the control unit, the memory, and the input and output devices (collectively termed I/O). These parts are interconnected by buses, often made of groups of wires.
+Inside each of these parts are thousands to trillions of small electrical circuits which can be turned off or on by means of an electronic switch. Each circuit represents a bit
+ (binary digit) of information so that when the circuit is on it 
+represents a "1", and when off it represents a "0" (in positive logic 
+representation). The circuits are arranged in logic gates so that one or more of the circuits may control the state of one or more of the other circuits.
 
 - Program Counter / Instruction Pointer - https://en.wikipedia.org/wiki/Program_counter
 
@@ -127,6 +132,7 @@ types of memory chips such as DDR SDRAM multiple words are accessed with each re
 > - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 - Pathfinding Demystified - https://gabrielgambetta.com/generic-search.html
 ### Networking
+- All Protocols - https://en.wikipedia.org/wiki/Category:Application_layer_protocols
 - > /usr/includes/net & /usr/includes/netinet contain all the header files of the internet protocols.
 - > A Summary of what networking is: Hosts on the ethernet (Connected by wires) checking their cached ARP tables for an already resolved ip to mac adress, if found we send the ethernet packet, if it does not, we send a recursive ARP(address resolution protocol) packet. An ARP packet requests to resolve an IP Adress to an interfaces Mac Adress(Where is 192.168.xx.xx? Tell 192.168.source.ip) on its ethernet network. The gateway / Router's task is to recursively request and reply until the destination IP Adress has been reached and replied to our request. The Packet e.g. "Internet Protocol(Ether Type: 0800)" is located entirely within the Ethernets payload, the payloads protocol type however is identified by the defined "Ether Type" e.g. 0800 Represents "Internet Protocol (IP)". The "Internet Protocol" Than recursively encapsulates information about the protocol used to send the information contained in its own payload for example TCP, TCP includes Byte Streams(3 way hand shake) to prevent Packet Loss, Reordering etc. Something you see often in networking is a "protocol" encapsulating another "protocol". In-Depth Explanation: https://www.youtube.com/watch?v=xNbdeyEI-nE.
 > Internet communication protocols are published by the Internet Engineering Task Force (IETF). The IEEE handles wired and wireless networking, and the International Organization for Standardization (ISO) handles other types. The ITU-T handles telecommunication protocols and formats for the public switched telephone network (PSTN). As the PSTN and Internet converge, the standards are also being driven towards convergence
