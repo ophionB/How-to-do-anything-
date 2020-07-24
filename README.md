@@ -104,7 +104,7 @@ at a separate location addressed via a pointer).
 
 - Microarchitecture - https://en.wikipedia.org/wiki/Microarchitecture
 
-##### Memory
+#### Memory
 > In a semiconductor memory chip, each bit of binary data is stored in a tiny circuit called a memory cell consisting of one to several transistors.
   The memory cells are laid out in rectangular arrays on the surface of 
 the chip.  The 1-bit memory cells are grouped in small units called words which are accessed together as a single memory address. Memory is manufactured in word length that is usually a power of two, typically N=1, 2, 4 or 8 bits. Data is accessed by means of a binary number called a memory address
