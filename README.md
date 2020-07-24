@@ -70,6 +70,8 @@
 
 ## Computer Science
  - https://en.wikipedia.org/wiki/Computer
+ - All computer Glossaries - https://en.wikipedia.org/wiki/Category:Glossaries_of_computers
+ - Glossary of Computer Science - https://en.wikipedia.org/wiki/Glossary_of_computer_science
  - Glossary of computer hardware terms - https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms
  - Computer Science from the bottom up - https://www.bottomupcs.com/
    - > Author: Yes as pointed out many times not 
