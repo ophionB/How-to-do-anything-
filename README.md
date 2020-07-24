@@ -71,8 +71,6 @@
 ## Computer Science
  - https://en.wikipedia.org/wiki/Computer
  - Glossary of computer hardware terms - https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms
- - Semiconductor Memory - https://en.wikipedia.org/wiki/Semiconductor_memory
- - Memory cell - https://en.wikipedia.org/wiki/Memory_cell_(computing)
  - Computer Science from the bottom up - https://www.bottomupcs.com/
    - > Author: Yes as pointed out many times not 
 "computer science" and I somewhat regret the name.  However, it came out
@@ -97,10 +95,34 @@ at a separate location addressed via a pointer).
 - File Descriptors - 'man fd' explains where the descriptors are stored - https://www.bottomupcs.com/file_descriptors.xhtml
   - File Control - 'man fcntl' provides information about control over file descriptors.
 ### Architecture
+
 - Program Counter / Instruction Pointer - https://en.wikipedia.org/wiki/Program_counter
+
   - > the instruction counter,[2] or just part of the instruction sequencer,[3] is a processor register    that indicates where a computer is in its program sequence
+
 - ISA Instruction Set Architecture - https://en.wikipedia.org/wiki/Instruction_set_architecture
+
 - Microarchitecture - https://en.wikipedia.org/wiki/Microarchitecture
+
+##### Memory
+> In a semiconductor memory chip, each bit of binary data is stored in a tiny circuit called a memory cell consisting of one to several transistors.
+  The memory cells are laid out in rectangular arrays on the surface of 
+the chip.  The 1-bit memory cells are grouped in small units called words which are accessed together as a single memory address. Memory is manufactured in word length that is usually a power of two, typically N=1, 2, 4 or 8 bits. Data is accessed by means of a binary number called a memory address
+ applied to the chip's address pins, which specifies which word in the 
+chip is to be accessed.  If the memory address consists of M bits, the number of addresses on the chip is 2M, each containing an N bit word.   Consequently, the amount of data stored in each chip is N2M bits.[5]  The memory storage capacity for M number of address lines is given by 2M, which is usually in power of two: 2, 4, 8, 16, 32, 64, 128, 256 and 512  and measured in kibibits, mebibits, gibibits or tebibits, etc. As of 2014
+ the largest semiconductor memory chips hold a few gibibits of data, but
+ higher capacity memory is constantly being developed.    By combining 
+several integrated circuits, memory can be arranged into a larger word 
+length and/or address space than what is offered by each chip, often but
+ not necessarily a power of two.[5]
+ The two basic operations performed by a memory chip are "read", in which the data contents of a memory word is read out (nondestructively), and "write"
+ in which data is stored in a memory word, replacing any data that was 
+previously stored there.  To increase data rate, in some of the latest 
+types of memory chips such as DDR SDRAM multiple words are accessed with each read or write operation.
+
+- Semiconductor Memory - https://en.wikipedia.org/wiki/Semiconductor_memory
+- Memory cell - https://en.wikipedia.org/wiki/Memory_cell_(computing)
+
 ### Algorithms
 > - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 - Pathfinding Demystified - https://gabrielgambetta.com/generic-search.html
