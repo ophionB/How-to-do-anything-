@@ -137,6 +137,9 @@ All Protocols - https://en.wikipedia.org/wiki/Category:Application_layer_protoco
 > Internet communication protocols are published by the Internet Engineering Task Force (IETF). The IEEE handles wired and wireless networking, and the International Organization for Standardization (ISO) handles other types. The ITU-T handles telecommunication protocols and formats for the public switched telephone network (PSTN). As the PSTN and Internet converge, the standards are also being driven towards convergence
 
 - > /usr/includes/net & /usr/includes/netinet contain all the header files of the internet protocols.
+- Network Interface Controller - https://en.wikipedia.org/wiki/Network_interface_controller
+- PHY - https://en.wikipedia.org/wiki/PHY
+  > A PHY, an abbreviation for "physical layer", is an electronic circuit, usually implemented as an integrated circuit, required to implement physical layer functions of the OSI model in a network interface controller, the Ethernet PHY is a chip that implements the hardware send and receive function of Ethernet frames.
 - Packets - https://en.wikipedia.org/wiki/Network_packet
 - Packet Switching - https://en.wikipedia.org/wiki/Packet_switching
   - Packet switching is a method of grouping data that is transmitted over a digital network into packets. Packets are made of a header and a payload.
