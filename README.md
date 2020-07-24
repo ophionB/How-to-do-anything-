@@ -69,6 +69,8 @@
 
 
 ## Computer Science
+ - https://en.wikipedia.org/wiki/Computer
+ - Glossary of computer hardware terms - https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms
  - Computer Science from the bottom up - https://www.bottomupcs.com/
    - > Author: Yes as pointed out many times not 
 "computer science" and I somewhat regret the name.  However, it came out
