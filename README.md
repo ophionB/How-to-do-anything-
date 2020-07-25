@@ -114,20 +114,56 @@ representation). The circuits are arranged in logic gates so that one or more of
 - Microarchitecture - https://en.wikipedia.org/wiki/Microarchitecture
 
 #### Memory
-> In a semiconductor memory chip, each bit of binary data is stored in a tiny circuit called a memory cell consisting of one to several transistors.
-  The memory cells are laid out in rectangular arrays on the surface of 
-the chip.  The 1-bit memory cells are grouped in small units called words which are accessed together as a single memory address. Memory is manufactured in word length that is usually a power of two, typically N=1, 2, 4 or 8 bits. Data is accessed by means of a binary number called a memory address
- applied to the chip's address pins, which specifies which word in the 
-chip is to be accessed.  If the memory address consists of M bits, the number of addresses on the chip is 2M, each containing an N bit word.   Consequently, the amount of data stored in each chip is N2M bits.[5]  The memory storage capacity for M number of address lines is given by 2M, which is usually in power of two: 2, 4, 8, 16, 32, 64, 128, 256 and 512  and measured in kibibits, mebibits, gibibits or tebibits, etc. As of 2014
- the largest semiconductor memory chips hold a few gibibits of data, but
- higher capacity memory is constantly being developed.    By combining 
-several integrated circuits, memory can be arranged into a larger word 
-length and/or address space than what is offered by each chip, often but
- not necessarily a power of two.[5]
- The two basic operations performed by a memory chip are "read", in which the data contents of a memory word is read out (nondestructively), and "write"
- in which data is stored in a memory word, replacing any data that was 
-previously stored there.  To increase data rate, in some of the latest 
-types of memory chips such as DDR SDRAM multiple words are accessed with each read or write operation.
+      > In a semiconductor memory chip, each bit of binary data is stored in a tiny circuit called a memory cell consisting of one to several transistors.
+        The memory cells are laid out in rectangular arrays on the surface of 
+      the chip.  The 1-bit memory cells are grouped in small units called words which are accessed together as a single memory address. Memory is manufactured in word length that is usually a power of two, typically N=1, 2, 4 or 8 bits. Data is accessed by means of a binary number called a memory address
+       applied to the chip's address pins, which specifies which word in the 
+      chip is to be accessed.  If the memory address consists of M bits, the number of addresses on the chip is 2M, each containing an N bit word.   Consequently, the amount of data stored in each chip is N2M bits.[5]  The memory storage capacity for M number of address lines is given by 2M, which is usually in power of two: 2, 4, 8, 16, 32, 64, 128, 256 and 512  and measured in kibibits, mebibits, gibibits or tebibits, etc. As of 2014
+       the largest semiconductor memory chips hold a few gibibits of data, but
+       higher capacity memory is constantly being developed.    By combining 
+      several integrated circuits, memory can be arranged into a larger word 
+      length and/or address space than what is offered by each chip, often but
+       not necessarily a power of two.[5]
+       The two basic operations performed by a memory chip are "read", in which the data contents of a memory word is read out (nondestructively), and "write"
+       in which data is stored in a memory word, replacing any data that was 
+      previously stored there.  To increase data rate, in some of the latest 
+      types of memory chips such as DDR SDRAM multiple words are accessed with each read or write operation.
+      The CPU contains a special set of memory cells called registers
+       that can be read and written to much more rapidly than the main memory 
+      area. There are typically between two and one hundred registers 
+      depending on the type of CPU. Registers are used for the most frequently
+       needed data items to avoid having to access main memory every time data
+       is needed. As data is constantly being worked on, reducing the need to 
+      access main memory (which is often slow compared to the ALU and control 
+      units) greatly increases the computer's speed.
+
+      Computer main memory comes in two principal varieties:
+
+      random-access memory or RAM
+      read-only memory or ROM
+
+      RAM can be read and written to anytime the CPU commands it, but ROM 
+      is preloaded with data and software that never changes, therefore the 
+      CPU can only read from it. ROM is typically used to store the computer's
+       initial start-up instructions. In general, the contents of RAM are 
+      erased when the power to the computer is turned off, but ROM retains its
+       data indefinitely. In a PC, the ROM contains a specialized program 
+      called the BIOS that orchestrates loading the computer's operating system from the hard disk drive into RAM whenever the computer is turned on or reset. In embedded computers,
+       which frequently do not have disk drives, all of the required software 
+      may be stored in ROM. Software stored in ROM is often called firmware, because it is notionally more like hardware than software. Flash memory
+       blurs the distinction between ROM and RAM, as it retains its data when 
+      turned off but is also rewritable. It is typically much slower than 
+      conventional ROM and RAM however, so its use is restricted to 
+      applications where high speed is unnecessary.[99]
+
+      In more sophisticated computers there may be one or more RAM cache memories,
+       which are slower than registers but faster than main memory. Generally 
+      computers with this sort of cache are designed to move frequently needed
+       data into the cache automatically, often without the need for any 
+      intervention on the programmer's part.
+
+
+
 
 - Semiconductor Memory - https://en.wikipedia.org/wiki/Semiconductor_memory
 - Memory cell - https://en.wikipedia.org/wiki/Memory_cell_(computing)
