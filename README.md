@@ -75,6 +75,7 @@
  - Glossary of Computer Science - https://en.wikipedia.org/wiki/Glossary_of_computer_science
  - Glossary of computer hardware terms - https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms
  - List of Computing and IT abbreviations - https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations
+ - List of Data Structures - https://en.wikipedia.org/wiki/List_of_data_structures
  - Computer Science from the bottom up - https://www.bottomupcs.com/
    - > Author: Yes as pointed out many times not 
 "computer science" and I somewhat regret the name.  However, it came out
