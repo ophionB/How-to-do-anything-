@@ -94,9 +94,6 @@ addition to its own instance variables like "first_name" and "position".
 employee has an address, so every Employee object has access to a place 
 to store an Address object (either directly embedded within itself, or 
 at a separate location addressed via a pointer).
-- How computer memory works - https://www.explainthatstuff.com/how-computer-memory-works.html
--  https://en.wikipedia.org/wiki/Virtual_address_space
-   - virtual address space (VAS) or address space is the set of ranges of virtual addresses that an operating system makes available to a process
 - File Descriptors - 'man fd' explains where the descriptors are stored - https://www.bottomupcs.com/file_descriptors.xhtml
   - File Control - 'man fcntl' provides information about control over file descriptors.
 ### Architecture
@@ -132,7 +129,10 @@ types of memory chips such as DDR SDRAM multiple words are accessed with each re
 
 - Semiconductor Memory - https://en.wikipedia.org/wiki/Semiconductor_memory
 - Memory cell - https://en.wikipedia.org/wiki/Memory_cell_(computing)
-
+- How computer memory works - https://www.explainthatstuff.com/how-computer-memory-works.html
+-  https://en.wikipedia.org/wiki/Virtual_address_space
+   - virtual address space (VAS) or address space is the set of ranges of virtual addresses that an operating system makes available to a process
+   
 ### Algorithms
 > - Complexity - https://en.wikipedia.org/wiki/Analysis_of_algorithms
 - Pathfinding Demystified - https://gabrielgambetta.com/generic-search.html
