@@ -102,7 +102,8 @@ Inside each of these parts are thousands to trillions of small electrical circui
  (binary digit) of information so that when the circuit is on it 
 represents a "1", and when off it represents a "0" (in positive logic 
 representation). The circuits are arranged in logic gates so that one or more of the circuits may control the state of one or more of the other circuits.
-
+- BIOS - https://en.wikipedia.org/wiki/BIOS
+  - > BIOS (pronounced: /ˈbaɪɒs/, BY-oss; an acronym for Basic Input/Output System and also known as the System BIOS, ROM BIOS or PC BIOS) is firmware used to perform hardware initialization during the booting process (power-on startup)
 - Program Counter / Instruction Pointer - https://en.wikipedia.org/wiki/Program_counter
   - > the instruction counter,[2] or just part of the instruction sequencer,[3] is a processor register    that indicates where a computer is in its program sequence
 
