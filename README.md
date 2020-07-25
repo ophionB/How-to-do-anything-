@@ -71,8 +71,10 @@
 ## Computer Science
  - https://en.wikipedia.org/wiki/Computer
  - All computer Glossaries - https://en.wikipedia.org/wiki/Category:Glossaries_of_computers
+ - All computer related lists - https://en.wikipedia.org/wiki/Category:Computing-related_lists
  - Glossary of Computer Science - https://en.wikipedia.org/wiki/Glossary_of_computer_science
  - Glossary of computer hardware terms - https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms
+ - List of Computing and IT abbreviations - https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations
  - Computer Science from the bottom up - https://www.bottomupcs.com/
    - > Author: Yes as pointed out many times not 
 "computer science" and I somewhat regret the name.  However, it came out
