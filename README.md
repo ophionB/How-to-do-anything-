@@ -327,6 +327,7 @@ Ajax is not a single technology, but rather a group of technologies. HTML and CS
   
   
 #### REACT
+- Package.json - "man npm help package.json"
 
 
 ## Commercial Development Tools
