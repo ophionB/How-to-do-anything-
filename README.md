@@ -102,8 +102,14 @@ Inside each of these parts are thousands to trillions of small electrical circui
  (binary digit) of information so that when the circuit is on it 
 represents a "1", and when off it represents a "0" (in positive logic 
 representation). The circuits are arranged in logic gates so that one or more of the circuits may control the state of one or more of the other circuits.
+
+- > Bootup Process
+  - > "When a computer is turned off, its software‍—‌including operating systems, application code, and data‍—‌remains stored on non-volatile memory.When the     computer is powered on, it typically does not have an operating system or its loader in random-access memory (RAM). The computer first executes a relatively small program stored in read-only memory (ROM) along with a small amount of needed data, to access the nonvolatile device or devices from which the operating system programs and data can be loaded into RAM.
+The small program that starts this sequence is known as a bootstrap loader, bootstrap or boot loader. This small program's only job is to load other data and programs which are then executed from RAM. Often, multiple-stage boot loaders are used, during which several programs of increasing complexity load one after the other in a process of chain loading.
+Some computer systems, upon receiving a boot signal from a human operator or a peripheral device, may load a very small number of fixed instructions into memory at a specific location, initialize at least one CPU, and then point the CPU to the instructions and start their execution. These instructions typically start an input operation from some peripheral device (which may be switch-selectable by the operator). Other systems may send hardware commands directly to peripheral devices or I/O controllers that cause an extremely simple input operation (such as "read sector zero of the system device into memory starting at location 1000") to be carried out, effectively loading a small number of boot loader instructions into memory; a completion signal from the I/O device may then be used to start execution of the instructions by the CPU.
+Smaller computers often use less flexible but more automatic boot loader mechanisms to ensure that the computer starts quickly and with a predetermined software configuration. In many desktop computers, for example, the bootstrapping process begins with the CPU executing software contained in ROM (for example, the BIOS of an IBM PC) at a predefined address (some CPUs, including the Intel x86 series are designed to execute this software after reset without outside help). This software contains rudimentary functionality to search for devices eligible to participate in booting, and load a small program from a special section (most commonly the boot sector) of the most promising device, typically starting at a fixed entry point such as the start of the sector.
 - BIOS - https://en.wikipedia.org/wiki/BIOS
-  - > BIOS (pronounced: /ˈbaɪɒs/, BY-oss; an acronym for Basic Input/Output System and also known as the System BIOS, ROM BIOS or PC BIOS) is firmware used to perform hardware initialization during the booting process (power-on startup)
+        - > BIOS (pronounced: /ˈbaɪɒs/, BY-oss; an acronym for Basic Input/Output System and also known as the System BIOS, ROM BIOS or PC BIOS) is firmware used to perform hardware initialization during the booting process (power-on startup)
 - Program Counter / Instruction Pointer - https://en.wikipedia.org/wiki/Program_counter
   - > the instruction counter,[2] or just part of the instruction sequencer,[3] is a processor register    that indicates where a computer is in its program sequence
 
@@ -318,11 +324,18 @@ Ajax is not a single technology, but rather a group of technologies. HTML and CS
 
 - XmlHttpRequest - https://en.wikipedia.org/wiki/XMLHttpRequest
   - > XMLHttpRequest (XHR) is an API in the form of an object whose methods transfer data between a web browser and a web server. The object is provided by the browser's JavaScript environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded web page is the underlying concept of Ajax design. Despite the name, XHR can be used with protocols other than HTTP and data can be in the form of not only XML,[1] but also JSON,[2] HTML or plain text.[3] 
+  
+  
+#### REACT
 
 
 ## Commercial Development Tools
 Topics about tools:</br>
 https://news.ycombinator.com/item?id=22786853
+
+### Docker
+### Kubernetes
+
 
 ### Keycloak
 https://www.keycloak.org/</br>
