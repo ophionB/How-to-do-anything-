@@ -304,7 +304,7 @@ Ajax is not a single technology, but rather a group of technologies. HTML and CS
 - XmlHttpRequest - https://en.wikipedia.org/wiki/XMLHttpRequest
   - > XMLHttpRequest (XHR) is an API in the form of an object whose methods transfer data between a web browser and a web server. The object is provided by the browser's JavaScript environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded web page is the underlying concept of Ajax design. Despite the name, XHR can be used with protocols other than HTTP and data can be in the form of not only XML,[1] but also JSON,[2] HTML or plain text.[3] 
   
-##### REACT - Library for web graphical UI development in JavaScript
+#### REACT - Library for web graphical UI development in JavaScript
 > npx create-react-app my-app --template redux
 - Package.json - "man npm help package.json"
 - Redux - https://redux.js.org/tutorials/essentials/part-1-overview-concepts
