@@ -327,7 +327,9 @@ Ajax is not a single technology, but rather a group of technologies. HTML and CS
   
   
 #### REACT
+> npx create-react-app my-app --template redux
 - Package.json - "man npm help package.json"
+- Redux - https://redux.js.org/tutorials/essentials/part-1-overview-concepts
 
 
 ## Commercial Development Tools
