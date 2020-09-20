@@ -85,15 +85,6 @@ systems courses without realising things like 2^10 is a kilobyte, 2^20
 is a megabyte, etc.  Let alone how a program was linked and loaded.  I 
 hope for this to be helpful, there are plenty of similar resources but 
 sometimes the way one person says something resonates more than another.
-- Object Oriented programming - https://en.wikipedia.org/wiki/Object-oriented_programming
-  - OOP is basically a struct containing function pointers, Objects can contain other objects in their instance variables; this is known as object composition.
-  For example, an object in the Employee class might contain (either 
-directly(inheritance) or through a pointer(Variable assigned to object) an object in the Address class, in 
-addition to its own instance variables like "first_name" and "position".
-  Object composition is used to represent "has-a" relationships: every 
-employee has an address, so every Employee object has access to a place 
-to store an Address object (either directly embedded within itself, or 
-at a separate location addressed via a pointer).
 - File Descriptors - 'man fd' explains where the descriptors are stored - https://www.bottomupcs.com/file_descriptors.xhtml
   - File Control - 'man fcntl' provides information about control over file descriptors.
 ### Architecture
@@ -242,30 +233,17 @@ and stripping the headers from the application data.
          Thus smaller packet size makes network inefficient by pumping more useless bits  an congesting it.
          Thus standard size is set to 512 bytes, Ethernet has set up 1500 bytes. in advanced interfaces, it could go till 9000 bytes too
 
-### Design Patterns
-*Basic principles*
-- ```
-  Keep It Simple Stupid Principle - https://en.wikipedia.org/wiki/KISS_principle
-  You aren't gonna need it Principle - https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
-  Emergent Design - https://en.wikipedia.org/wiki/Emergent_Design
-  ```
- *Commonly used & use case*
- - ```
-   Builder - While Writing Unit Tests
-   Prototype - Cloning
-   Adapter - asList , toString
-   Chain Of Responsibility - Exception handling, logging
-   Singleton
-   Factory - Action Mapping
-   Proxy
-   Observer - Event Listener
-   MVC - Web frameworks
-   Filter - Criteria
-   ```
-- Java design patterns - https://github.com/iluwatar/java-design-patterns
-
-
-## Programming
+### Programming
+- Object - https://en.wikipedia.org/wiki/Object_(computer_science)
+- Object Oriented programming - https://en.wikipedia.org/wiki/Object-oriented_programming
+  - OOP is basically a struct containing function pointers, Objects can contain other objects in their instance variables; this is known as object composition.
+  For example, an object in the Employee class might contain (either 
+directly(inheritance) or through a pointer(Variable assigned to object) an object in the Address class, in 
+addition to its own instance variables like "first_name" and "position".
+  Object composition is used to represent "has-a" relationships: every 
+employee has an address, so every Employee object has access to a place 
+to store an Address object (either directly embedded within itself, or 
+at a separate location addressed via a pointer).
 #### C
  - C Syntax - https://en.wikipedia.org/wiki/C_syntax
  - C Preprocessors - https://en.wikipedia.org/wiki/C_preprocessor
@@ -300,7 +278,7 @@ Moving large amounts of data is very time-consuming so the insert
 establish a logical order that is independent of physical order in 
 memory.
 
-## Web Development
+#### Web Development
  > Use alot of random yet relative text, alot of variations, and depending on the project alot of Emoji's
 - All Emojis -  https://www.w3schools.com/charsets/ref_emoji.asp
 - Http-Cookies - https://en.wikipedia.org/wiki/HTTP_cookie
@@ -330,6 +308,29 @@ Ajax is not a single technology, but rather a group of technologies. HTML and CS
 > npx create-react-app my-app --template redux
 - Package.json - "man npm help package.json"
 - Redux - https://redux.js.org/tutorials/essentials/part-1-overview-concepts
+
+### Design Patterns
+*Basic principles*
+- ```
+  Keep It Simple Stupid Principle - https://en.wikipedia.org/wiki/KISS_principle
+  You aren't gonna need it Principle - https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+  Emergent Design - https://en.wikipedia.org/wiki/Emergent_Design
+  ```
+ *Commonly used & use case*
+ - ```
+   Builder - While Writing Unit Tests
+   Prototype - Cloning
+   Adapter - asList , toString
+   Chain Of Responsibility - Exception handling, logging
+   Singleton
+   Factory - Action Mapping
+   Proxy
+   Observer - Event Listener
+   MVC - Web frameworks
+   Filter - Criteria
+   ```
+- Java design patterns - https://github.com/iluwatar/java-design-patterns
+
 
 
 ## Commercial Development Tools
