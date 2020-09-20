@@ -244,7 +244,7 @@ addition to its own instance variables like "first_name" and "position".
 employee has an address, so every Employee object has access to a place 
 to store an Address object (either directly embedded within itself, or 
 at a separate location addressed via a pointer).
-#### C
+#### C - compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions.
  - C Syntax - https://en.wikipedia.org/wiki/C_syntax
  - C Preprocessors - https://en.wikipedia.org/wiki/C_preprocessor
  - Include Guards (prevent double header variables caused byrecursive inclusion) - https://en.wikipedia.org/wiki/Include_guard
@@ -257,17 +257,17 @@ at a separate location addressed via a pointer).
        ANSI C(C89) is written in the same year as the ANSI Standard which is why it's portable to most machines.
        C is however executed on an Abstract machine model and therefore not the actual Computer architecture.
        
-#### JAVA
+#### JAVA - A language for developing application software and deploying it in a cross-platform computing environment.
 - Summary of Creating & Using Classes & Objects - https://docs.oracle.com/javase/tutorial/java/javaOO/summaryclasses.html
 - The Really Big Index - https://docs.oracle.com/javase/tutorial/reallybigindex.html
 - The Java Whitepaper 1996 (A summary of the transition from C to Java) - http://journals.ecs.soton.ac.uk/java/whitepaper/java-whitepaper-1.html
 - Learn about annotations - https://en.wikipedia.org/wiki/Java_annotation
 - Java is awesome - https://github.com/akullpp/awesome-java
 
-#### KOTLIN
+#### KOTLIN - Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library
  - Learn kotlin in *Y* Minutes https://learnxinyminutes.com/docs/kotlin/
 
-#### SQL
+#### SQL - designed for managing data held in a relational database management system
 - https://en.wikipedia.org/wiki/Database_index
   - > The primary purpose of an index is to provide an ordered representation 
 of the indexed data. It is, however, not possible to store the data 
@@ -286,13 +286,14 @@ memory.
 
 Cookies perform essential functions in the modern web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with. Without such a mechanism, the site would not know whether to send a page containing sensitive information, or require the user to authenticate themselves by logging in. The security of an authentication cookie generally depends on the security of the issuing website and the user's web browser, and on whether the cookie data is encrypted. Security vulnerabilities may allow a cookie's data to be read by a hacker, used to gain access to user data, or used to gain access (with the user's credentials) to the website to which the cookie belongs (see cross-site scripting and cross-site request forgery for examples).[1]
 
-#### CSS
+#### CSS - style sheet language used for describing the design of a document written in a markup language such as HTML.
 - All Selectors - https://www.w3schools.com/cssref/css_selectors.asp
 - Learn to layout - https://learnlayout.com/
 - everything you need to know - https://learn.shayhowe.com/html-css/
 - HTML - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
-#### JAVASCRIPT
+#### JAVASCRIPT - JavaScript enables interactive web pages
+- https://en.wikipedia.org/wiki/JavaScript - READ THE ENTIRE PAGE.
 - Parcel - Fast, zero-configuration web application bundler - https://parceljs.org/
 - Libraries & Frameworks - https://www.javascripting.com
 - AJAX - https://en.wikipedia.org/wiki/Ajax_(programming)
@@ -303,8 +304,12 @@ Ajax is not a single technology, but rather a group of technologies. HTML and CS
 - XmlHttpRequest - https://en.wikipedia.org/wiki/XMLHttpRequest
   - > XMLHttpRequest (XHR) is an API in the form of an object whose methods transfer data between a web browser and a web server. The object is provided by the browser's JavaScript environment. Particularly, retrieval of data from XHR for the purpose of continually modifying a loaded web page is the underlying concept of Ajax design. Despite the name, XHR can be used with protocols other than HTTP and data can be in the form of not only XML,[1] but also JSON,[2] HTML or plain text.[3] 
   
-  
-#### REACT
+##### REACT - Library for web graphical UI development in JavaScript
+> npx create-react-app my-app --template redux
+- Package.json - "man npm help package.json"
+- Redux - https://redux.js.org/tutorials/essentials/part-1-overview-concepts
+
+#### Electron - development of desktop GUI applications using web technologies
 > npx create-react-app my-app --template redux
 - Package.json - "man npm help package.json"
 - Redux - https://redux.js.org/tutorials/essentials/part-1-overview-concepts
