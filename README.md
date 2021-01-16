@@ -293,6 +293,10 @@ Cookies perform essential functions in the modern web. Perhaps most importantly,
 - HTML - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
 #### JAVASCRIPT - JavaScript enables interactive web pages
+- > Javascript simply put connects your code by accessing the Document API(which contains node objects of the html file's nodes), the Document API is basically just an object(An object is a collection of related data and/or functionality) made accessable because your files are being executed on the 'browser' of the client which contains the javascript interperter. This allows your functionality to be executed on our html code represented as a [Tree node](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core#what_is_a_content_tree.3f) of objects accessed through the Document API.
+
+
+
 - https://en.wikipedia.org/wiki/JavaScript - READ THE ENTIRE PAGE.
 - Parcel - Fast, zero-configuration web application bundler - https://parceljs.org/
 - Libraries & Frameworks - https://www.javascripting.com
